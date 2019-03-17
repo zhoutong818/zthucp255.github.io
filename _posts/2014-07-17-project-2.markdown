@@ -1,11 +1,11 @@
 ---
-title: Escape
-subtitle: Website Design
+title: Template Picker
+subtitle: Working on Real-world Design Problems
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
+img: lucid.png
+thumbnail: lucid.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
