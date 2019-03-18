@@ -1,3 +1,7 @@
+DCForce Issues
+====================
+* portfolio thumbnail margin
+
 Agency Jekyll theme
 ====================
 
