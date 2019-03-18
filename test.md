@@ -1,5 +1,5 @@
 ---
+layout: default
 title: Test
+permalink: /projects/test
 ---
-
-田豆我愛你
