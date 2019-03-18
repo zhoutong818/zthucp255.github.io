@@ -1,6 +1,7 @@
 DCForce Issues
 ====================
 * portfolio thumbnail margin
+* Navbar highlight 
 
 Agency Jekyll theme
 ====================
