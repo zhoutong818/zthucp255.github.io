@@ -818,10 +818,11 @@ ul.social-buttons li a:active {
     height: 75px;
     background-color: transparent;
     cursor: pointer;
+    opacity: .3;
 }
 
 .portfolio-modal .close-modal:hover {
-    opacity: .3;
+    opacity: 1;
 }
 
 .portfolio-modal .close-modal .lr {
