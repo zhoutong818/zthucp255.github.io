@@ -2,6 +2,7 @@ DCForce Issues
 ====================
 * portfolio thumbnail margin
 * Navbar highlight 
+* change top left site name to the logo
 
 Agency Jekyll theme
 ====================
