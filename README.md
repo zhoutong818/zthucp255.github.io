@@ -17,6 +17,33 @@ Portfolio projects are in '/_posts'
 
 Images are in '/img/portfolio'
 
+#### DCForce Format
+---
+title: 
+subtitle:
+layout: 
+modal-id: 4
+img: treehouse.png
+thumbnail: treehouse-thumbnail.png
+project-date: April 2014
+alt: image-alt
+
+overview
+type
+duration
+role
+background
+process
+design
+
+section_1:
+section_2:
+section_3:
+section_4:
+
+
+---
+
 ### About
 
 Images are in '/img/about/'
