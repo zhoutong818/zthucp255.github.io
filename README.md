@@ -28,19 +28,14 @@ thumbnail: treehouse-thumbnail.png
 project-date: April 2014
 alt: image-alt
 
-overview
+overview (reflection)
 type
 duration
 role
 background
 process
 design
-
-section_1:
-section_2:
-section_3:
-section_4:
-
+nextstep
 
 ---
 
