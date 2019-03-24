@@ -7,38 +7,36 @@
             </div>
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-8 col-lg-offset-2">
+                    <div class="col-xl-12 ">
                         <div class="modal-body">
                             <h2>{{ post.title }}</h2>
                             <p>{{ post.subtitle }}</p>
-                            <hr class="star-primary">
                             <!--<img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
                             -->
                             <div class="row text-center">
                                 <div class="col-md-6">
                                     <span class="fa-stack fa-3x">
-                                        <i class="fa fa-user fa-stack-1x "></i>
+                                        <i class="fa fa-user fa-stack-1x text-primary"></i>
                                     </span>
-                                    <h4 class="service-heading">Team</h4>
+                                    <h4 class="service-heading text-primary">Team</h4>
                                     <p>{{ post.team }}</p>
                                 </div>
                                 <div class="col-md-6">
                                     <span class="fa-stack fa-3x">
 
-                                        <i class="fa fa-sticky-note fa-stack-1x "></i>
+                                        <i class="fa fa-sticky-note fa-stack-1x text-primary"></i>
                                     </span>
-                                    <h4 class="service-heading">Role</h4>
+                                    <h4 class="service-heading text-primary">Role</h4>
                                     <p>{{ post.role }}</p>
                                 </div>
                             </div>
                             
+                            <h3 class="text-primary">Overview</h3>
+                            <p>{{ post.overview }}</p>
+                            <hr class="star-primary">
 
-                            <h3 class="text-primary">Background</h3>
-                            <p>{{ post.background }}</p>
-                            <h3 class="text-primary">Process</h3>
-                            <p>{{ post.process }}</p>
-                            <h3 class="text-primary">Design</h3>
-                            <p>{{ post.design }}</p>
+                            {{ post.content }}
+
                             <ul class="list-inline item-details">
                                 <li>Client:
                                     <strong><a href="http://startbootstrap.com">{{ post.client }}</a>
