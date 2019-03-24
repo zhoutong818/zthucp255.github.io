@@ -4,6 +4,8 @@ DCForce Issues
 * Navbar highlight 
 * change top left site name to the logo
 
+`.bg-primary { background-color:#F05F40 }`
+
 Agency Jekyll theme
 ====================
 
