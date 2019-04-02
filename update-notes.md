@@ -5,7 +5,7 @@
  Issues
 ==================== 
 * change top left site name to the logo
-
+* portfolio page "X" icon should be sticky on top right
 
 
 

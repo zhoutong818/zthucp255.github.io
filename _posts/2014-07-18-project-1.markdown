@@ -26,9 +26,34 @@ design:
 
 > We asked, how might we make the public more aware of the fact that their data is often sold for purposes they have not authorized to people they do not know?
 
+<div class="container-fluid">
+  <div class="row" style="background-color: black;">
+    <div class="col-md-6 ">
+      <div style="padding-top: 56.25%; position: relative; overflow: hidden;"><iframe allowfullscreen="" scrolling="no" style="position: absolute; height: 100%; width: 100%; left: 0px; top: 0px;" src="https://onelineplayer.com/player.html?autoplay=false&loop=false&autopause=false&muted=false&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D1vSejrGjO1U&poster=&time=true&progressBar=true&playButton=true&overlay=true&muteButton=true&fullscreenButton=true&style=light&logo=true&quality=720p" frameborder="0"></iframe></div>
+    </div>
+  </div>
+            <div class="row text-left">
+                <div class="col-md-2"></div>
+                <div class="col-md-4">
+                    <span>
+                      <img class="img-responsive center-block" src="img/portfolio/datamart-background.png" alt="">
+                    </span>
+                    <h3>Background</h3>
+                    In the case of the Cambridge Analytica scandal, user data was acquired from Facebook to create more targeted political advertising, with the promise of swaying a major election. Governments can also gain access to this data. This case reminds us that we must be aware that our data can be used in ways that we don’t knowingly consent to.
+                </div>
+                <div class="col-md-4">
+                    <span>
+                      <img class="img-responsive center-block" src="img/portfolio/datamart-social.png" alt="">
+                    </span>
+                    <h3>Interests</h3>
+                    Before we sign up for a new service or buy a new piece of technology, we must ask ourselves:
+                    - What kind of data is being collected from me?
+                    - Am I comfortable with this data being sold and used in ways I may never know about?
+                </div>
+                <div class="col-md-2"></div>
+            </div>
+        </div>
 
-### Background
-In the case of the Cambridge Analytica scandal, user data was acquired from Facebook to create more targeted political advertising, with the promise of swaying a major election. Governments can also gain access to this data. This case reminds us that we must be aware that our data can be used in ways that we don’t knowingly consent to.
 
 ### Process
 Before we sign up for a new service or buy a new piece of technology, we must ask ourselves
