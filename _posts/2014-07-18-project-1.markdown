@@ -7,13 +7,13 @@ date: '2014-07-18'
 img: datamart.png
 thumbnail: datamart.png
 alt: image-alt
-project-date: April 2014
+project-date: April 2018
 client: Start Bootstrap
 category: UX Design
 
 team: Davis Chen, Nick Freeland, Xun He, Somalia Jamall
 role: Insights, Music & Sounds, Video Editing, Acting
-overview: Project's overview.
+overview: Designed a content to make people think that how to protect personal online data as they feel necessary.<br>Utilized Premiere Pro and After Effects to create clips of rich content as prototype to present the design idea.
 
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo
   novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo
@@ -24,13 +24,7 @@ description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At du
 design:
 ---
 
-<div class="container-fluid">
-<div class="row text-left">
-  <div class="row text-center">
-    <div class="col-md-2"></div>
-    <div class="col-md-8 "><h3>Design Concept</h3></div>
-    <div class="col-md-2"></div>
-  </div>
+<div class="container-fluid"> 
   <div class="row text-left" style="background-color: black;">
     <div class="col-md-6">
       <div style="padding-top: 56.25%; position: relative; overflow: hidden;"><iframe allowfullscreen="" scrolling="no" style="position: absolute; height: 100%; width: 100%; left: 0px; top: 0px;" src="https://onelineplayer.com/player.html?autoplay=false&loop=false&autopause=false&muted=false&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D1vSejrGjO1U&poster=&time=true&progressBar=true&playButton=true&overlay=true&muteButton=true&fullscreenButton=true&style=light&logo=true&quality=720p" frameborder="0"></iframe></div>
@@ -39,13 +33,34 @@ design:
     <h3 style="text-transform:none; color: #fff; word-spacing: 5px; line-hright: 5px;">We asked, how might we make the public more aware of the fact that their data is often sold for purposes they have not authorized to people they do not know?</h3>
     </div>
   </div>
+  <div class="row text-left">
+    <span >
+    <img class="img-responsive center-block" style="width: 80vw;" src="img/portfolio/DataMart-XD.png" alt="">
+    </span>
+  </div> 
 </div> <!-- container-fluid -->
 
-<span >
-<img class="img-responsive center-block" src="img/portfolio/DataMart-XD.png" alt="">
-</span>
+### Researches
+    We should be wary about the other ways this data might be utilized. Everyday, the data we create gets stored by the applications, devices, and websites we use [1, 2]. Mostly, this information is used to convince users to buy things: “Websites need data to make their products better and to sell you the advertisements that keep them afloat,” says David Nield of Gizmodo [2]. 
 
-### Process
+    Paul Stephens, a director at the Privacy Rights Clearinghouse, says “It’s hard to tell who’s selling what to whom” [3]. This fact could be disturbing to some people. The fact that many people either (1) don’t know what data is being collected from them when they use a new app/website and (2) don’t know for what purposes this data is being sold becomes an issues of consent. We know that there are companies such as Acxiom that traffic in our data, and that they have “on average, 1,500 pieces of information on more than 200 million Americans” [4].
+
+### References
+
+1. Brandon Jones. 2016. What Information Does Facebook Collect About Its Users?. Retrieved March 24, 2018  
+   from http://www.psafe.com/en/blog/information-facebook-collect-users/
+
+2. David Nield. 2017. Here’s All the Data Collected From You as You Browse the Web. Retrieved March 24, 2018  
+   from https://fieldguide.gizmodo.com/heresall-the-data-collected-from-you-as-you-browsethe-1820779304
+
+3. Paul Boutin. 2016. The Secretive World of Selling Data About You. Retrieved March 24, 2018  
+   from http://www.newsweek.com/secretive-world-selling-dataabout-you-464789
+
+4. Steve Kroft. 2014. The Data Brokers: Selling your personal information. Retrieved March 24, 2018  
+   from https://www.cbsnews.com/news/the-data-brokersselling-your-personal-information/
+{: .text-left }
+
+### Reflection
 {: .text-center }
 Before we sign up for a new service or buy a new piece of technology, we must ask ourselves
 {: .text-center }
