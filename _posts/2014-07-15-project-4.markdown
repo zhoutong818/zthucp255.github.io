@@ -1,15 +1,20 @@
 ---
-title: Treehouse
+title: Sobremesa Farm
 subtitle: Website Design
 layout: default
 modal-id: 4
-date: 2014-07-15
-img: treehouse.png
-thumbnail: treehouse-thumbnail.png
+date: 2019-07-01
+img: sobremesa.png
+thumbnail: sobremesa.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: July 2019
+client: Sobremesa Farm
 category: Web Development
+
+team: Davis Chen, Mengyi Liu, Poppy Huang
+role: System Design, Coding, Landing and Navigation Design
+overview: We volunteered to redesigned the website of a local farm named Sobremesa Farm. The new website introduces its history, culture, and products.<br>Besides restructuring the website, we also have implemented some features like newsletter subscriptions and Square online payment system.
+
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
 
 ---

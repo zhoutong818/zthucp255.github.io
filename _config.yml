@@ -44,10 +44,8 @@ people:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
   - title: facebook
-    url: 
+    url: https://www.facebook.com/dchen0710
   - title: linkedin
     url: https://www.linkedin.com/in/davis-chen-990
   - title: github
