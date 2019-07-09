@@ -1,6 +1,6 @@
 ---
 title: Sobremesa Farm
-subtitle: Website Design
+subtitle: Website Redesign
 layout: default
 modal-id: 4
 date: 2019-07-01

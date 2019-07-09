@@ -8,7 +8,7 @@ img: datamart.png
 thumbnail: datamart.png
 alt: image-alt
 project-date: April 2018
-client: Start Bootstrap
+client: N/A
 category: UX Design
 
 team: Davis Chen, Nick Freeland, Xun He, Somalia Jamall
