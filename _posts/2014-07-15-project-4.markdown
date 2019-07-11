@@ -21,7 +21,7 @@ description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At du
 ---
 <div class="container-fluid">
 <div class="row text-center">
-    <h2 class="service-heading">Website: <a href="https://sobremesafarm.com" target="_blank">https://sobremesafarm.com</a></h2>
+    <h3 class="service-heading">Website: <a href="https://sobremesafarm.com" target="_blank">https://sobremesafarm.com</a></h3>
 </div>
 <div class="row text-left">
     <span >
