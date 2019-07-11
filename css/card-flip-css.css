@@ -1,0 +1,106 @@
+.sticky {
+ position: -webkit-sticky !important;
+  position: sticky !important;
+}
+/* entire container, keeps perspective */
+.flip-container, .flip-container.flip {
+    -webkit-perspective: 1000;
+    -moz-perspective: 1000;
+    -o-perspective: 1000;
+    perspective: 1000;
+}
+
+.flip-container, .front, .back {
+    width: 200px;
+    height: 310px;
+}
+
+.flipper {
+    -moz-transform: perspective(1000px);
+    -moz-transform-style: preserve-3d;
+
+    position: relative;
+}
+
+.front, .back {
+    -webkit-backface-visibility: hidden;
+    -moz-backface-visibility: hidden;
+    -o-backface-visibility: hidden;
+    backface-visibility: hidden;
+
+    -webkit-transition: 0.6s;
+    -webkit-transform-style: preserve-3d;
+
+    -moz-transition: 0.6s;
+    -moz-transform-style: preserve-3d;
+
+    -o-transition: 0.6s;
+    -o-transform-style: preserve-3d;
+
+    -ms-transition: 0.6s;
+    -ms-transform-style: preserve-3d;
+
+    transition: 0.6s;
+    transform-style: preserve-3d;
+
+    position: absolute;
+    top: 0;
+    left: 0;
+
+    padding-top: 55px;
+}
+
+.back {
+    -webkit-transform: rotateY(-180deg);
+    -moz-transform: rotateY(-180deg);
+    -o-transform: rotateY(-180deg);
+    -ms-transform: rotateY(-180deg);
+    transform: rotateY(-180deg);
+
+    background-color: #ffd700;
+    /* border: 7px solid; */
+    border-color: #2e63b1;
+}
+
+.flip-container:hover .back, .flip-container.hover .back, .flip-container.flip .back, .flip-container.flip:hover .front, .flip-container.flip.hover .front {
+    -webkit-transform: rotateY(0deg);
+    -moz-transform: rotateY(0deg);
+    -o-transform: rotateY(0deg);
+    -ms-transform: rotateY(0deg);
+    transform: rotateY(0deg);
+}
+
+.flip-container:hover .front, .flip-container.hover .front, .flip-container.flip .front {
+    -webkit-transform: rotateY(180deg);
+    -moz-transform: rotateY(180deg);
+    -o-transform: rotateY(180deg);
+    transform: rotateY(180deg);
+}
+
+.flip-container.flip:hover .back, .flip-container.flip.hover .back {
+    -webkit-transform: rotateY(-180deg);
+    -moz-transform: rotateY(-180deg);
+    -o-transform: rotateY(-180deg);
+    transform: rotateY(-180deg);
+}
+
+.front {
+    z-index: 2;
+    /* background-color: brown; */
+    border: 7px solid;
+    border-color: #2e63b1;
+}
+
+.cursor-container {
+		cursor: url('https://uploads-ssl.webflow.com/59f3a45a1310520001bcb88c/5c984de46929128ba5ba1cd2_td_3.svg') 64 64, pointer;
+    cursor: -webkit-image-set("https://uploads-ssl.webflow.com/59f3a45a1310520001bcb88c/5c9852477e3bc9cf657e8818_td_5_png.png" 1x, "https://uploads-ssl.webflow.com/59f3a45a1310520001bcb88c/5c9852477e3bc9cf657e8818_td_5_png.png" 2x), pointer;
+}
+
+#click_pattern {
+    border: 1px;
+}
+
+#add_class:focus, #remove_class:focus {
+    background-color: blueviolet;
+
+}

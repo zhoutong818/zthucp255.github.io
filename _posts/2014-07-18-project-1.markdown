@@ -19,8 +19,6 @@ description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At du
   novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo
   diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
 
-
-
 design:
 ---
 
@@ -37,30 +35,22 @@ design:
     <span >
     <img class="img-responsive center-block" style="width: 80vw;" src="img/portfolio/DataMart-XD.png" alt="">
     </span>
-  </div> 
+  </div>
+  <div class="row ">
+      <div class="col-md-6">
+          <h3 class="service-heading text-center">Researches</h3>
+          <p class="text-left">We should be wary about the other ways this data might be utilized. Everyday, the data we create gets stored by the applications, devices, and websites we use [1, 2]. Mostly, this information is used to convince users to buy things: “Websites need data to make their products better and to sell you the advertisements that keep them afloat,” says David Nield of Gizmodo [2].<br>
+    Paul Stephens, a director at the Privacy Rights Clearinghouse, says “It’s hard to tell who’s selling what to whom” [3]. This fact could be disturbing to some people. The fact that many people either (1) don’t know what data is being collected from them when they use a new app/website and (2) don’t know for what purposes this data is being sold becomes an issues of consent. We know that there are companies such as Acxiom that traffic in our data, and that they have “on average, 1,500 pieces of information on more than 200 million Americans” [4].</p>
+      </div>
+      <div class="col-md-6">
+          <h3 class="service-heading text-center">References</h3>
+          <ol class="text-left">
+          <li>Brandon Jones. 2016. What Information Does Facebook Collect About Its Users?. Retrieved March 24, 2018 from http://www.psafe.com/en/blog/information-facebook-collect-users/</li>
+          <li>David Nield. 2017. Here’s All the Data Collected From You as You Browse the Web. Retrieved March 24, 2018 from https://fieldguide.gizmodo.com/heresall-the-data-collected-from-you-as-you-browsethe-1820779304</li>
+          <li>Paul Boutin. 2016. The Secretive World of Selling Data About You. Retrieved March 24, 2018 from http://www.newsweek.com/secretive-world-selling-dataabout-you-464789</li>
+          <li>Steve Kroft. 2014. The Data Brokers: Selling your personal information. Retrieved March 24, 2018 from https://www.cbsnews.com/news/the-data-brokersselling-your-personal-information/</li>
+          </ol>
+      </div>
+  </div><!-- row -->
+
 </div> <!-- container-fluid -->
-
-### Researches
-    We should be wary about the other ways this data might be utilized. Everyday, the data we create gets stored by the applications, devices, and websites we use [1, 2]. Mostly, this information is used to convince users to buy things: “Websites need data to make their products better and to sell you the advertisements that keep them afloat,” says David Nield of Gizmodo [2]. 
-
-    Paul Stephens, a director at the Privacy Rights Clearinghouse, says “It’s hard to tell who’s selling what to whom” [3]. This fact could be disturbing to some people. The fact that many people either (1) don’t know what data is being collected from them when they use a new app/website and (2) don’t know for what purposes this data is being sold becomes an issues of consent. We know that there are companies such as Acxiom that traffic in our data, and that they have “on average, 1,500 pieces of information on more than 200 million Americans” [4].
-
-### References
-
-1. Brandon Jones. 2016. What Information Does Facebook Collect About Its Users?. Retrieved March 24, 2018  
-   from http://www.psafe.com/en/blog/information-facebook-collect-users/
-
-2. David Nield. 2017. Here’s All the Data Collected From You as You Browse the Web. Retrieved March 24, 2018  
-   from https://fieldguide.gizmodo.com/heresall-the-data-collected-from-you-as-you-browsethe-1820779304
-
-3. Paul Boutin. 2016. The Secretive World of Selling Data About You. Retrieved March 24, 2018  
-   from http://www.newsweek.com/secretive-world-selling-dataabout-you-464789
-
-4. Steve Kroft. 2014. The Data Brokers: Selling your personal information. Retrieved March 24, 2018  
-   from https://www.cbsnews.com/news/the-data-brokersselling-your-personal-information/
-{: .text-left }
-
-### Reflection
-{: .text-center }
-Before we sign up for a new service or buy a new piece of technology, we must ask ourselves
-{: .text-center }
