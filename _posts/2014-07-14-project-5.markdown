@@ -26,14 +26,14 @@ description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At du
                     <!-- front content -->
                     <div>
                         <img src="img/portfolio/game-1.png" width="120vw" height="120vh" style="margin-bottom: 0px;">
-                        <h3 style="margin-top: 0px;">Game</h3>
+                        <h3 style="color: black; margin-top: 0px;">Game</h3>
                     </div>
                 </div>
                 <div class="back">
                     <!-- back content -->
                     <div>
                         <img src="img/portfolio/resume-1.png" width="130vw" height="130vh" style="margin-bottom: 0px;">
-                        <h3 style="margin-top: 0px;">Resume</h3>
+                        <h3 style="color: black; margin-top: 0px;">Resume</h3>
                     </div>    
                 </div>
             </div>
