@@ -27,17 +27,17 @@ duration: 4 weeks
     </span>
 </div> <!-- row XD-1 -->
 <div class="row">
-    <div class="col-md-4" style="height: 320px;">
+    <div class="col-sm-5" style="height: 320px;">
         <div class="vertical-align-center">
-            <img class="img-responsive center-block" src="img/portfolio/group-47.png" alt="">
+            <img class="img-responsive center-block" src="img/portfolio/group-47.png" style="width: 220px;" alt="Unity and Blender">
         </div>
     </div> <!-- Game as Resume -->
-    <div class="col-md-4" style="height: 320px;">
+    <div class="col-sm-2" style="height: 320px;">
         <div class="vertical-align-center">
-            <h3>‧‧‧‧‧‧‧‧‧‧‧‧</h3>
+            <img class="img-responsive center-block" src="img/portfolio/group-48.png" alt="‧‧‧‧‧‧‧">
         </div>
     </div>
-    <div class="col-md-4" >
+    <div class="col-sm-5" >
         <div class="flip-container" ontouchstart="this.classList.toggle('hover');">
             <div class="flipper">
                 <div class="front">

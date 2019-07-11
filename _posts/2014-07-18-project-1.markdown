@@ -1,6 +1,6 @@
 ---
 title: DataMart
-subtitle: Video Presenting Design Concept
+subtitle: Designed a content to make people think that how to protect personal online data as they feel necessary.<br>Utilized Premiere Pro and After Effects to create clips of rich content as prototype to present the design idea.
 layout: default
 modal-id: 1
 date: '2014-07-18'
@@ -13,6 +13,7 @@ category: UX Design
 
 team: Davis Chen, Nick Freeland, Xun He, Somalia Jamall
 role: Insights, Music & Sounds, Video Editing, Acting
+duration: 3 weeks
 overview: Designed a content to make people think that how to protect personal online data as they feel necessary.<br>Utilized Premiere Pro and After Effects to create clips of rich content as prototype to present the design idea.
 
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo
@@ -25,7 +26,7 @@ design:
 <div class="container-fluid"> 
   <div class="row text-left" style="background-color: black;">
     <div class="col-md-6">
-      <div style="padding-top: 56.25%; position: relative; overflow: hidden;"><iframe allowfullscreen="" scrolling="no" style="position: absolute; height: 100%; width: 100%; left: 0px; top: 0px;" src="https://onelineplayer.com/player.html?autoplay=false&loop=false&autopause=false&muted=false&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D1vSejrGjO1U&poster=&time=true&progressBar=true&playButton=true&overlay=true&muteButton=true&fullscreenButton=true&style=light&logo=true&quality=720p" frameborder="0"></iframe></div>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/1vSejrGjO1U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
     <div class="col-md-6 text-info" style="padding-top: 5%;">
     <h3 style="text-transform:none; color: #fff; word-spacing: 5px; line-hright: 5px;">We asked, how might we make the public more aware of the fact that their data is often sold for purposes they have not authorized to people they do not know?</h3>

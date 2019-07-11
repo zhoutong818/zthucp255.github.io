@@ -1,6 +1,6 @@
 ---
 title: Sobremesa Farm
-subtitle: Website Redesign
+subtitle: Redesigned the website of a local farm. <br>It will more accurately portray the exceptional quality of produces that is offered at its farm.
 layout: default
 modal-id: 4
 date: 2019-07-01
