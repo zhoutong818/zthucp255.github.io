@@ -14,16 +14,22 @@
                             <!--<img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
                             -->
                             <div class="row text-center">
-                                <div class="col-md-6">
+                                <div class="col-md-4">
                                     <span class="fa-stack fa-3x">
                                         <i class="fa fa-user fa-stack-1x text-primary"></i>
                                     </span>
                                     <h4 class="service-heading text-primary">Team</h4>
                                     <p>{{ post.team }}</p>
                                 </div>
-                                <div class="col-md-6">
+                                <div class="col-md-4">
                                     <span class="fa-stack fa-3x">
-
+                                        <i class="fa fa-hourglass fa-stack-1x text-primary"></i>
+                                    </span>
+                                    <h4 class="service-heading text-primary">Duration</h4>
+                                    <p>{{ post.duration }}</p>
+                                </div>
+                                <div class="col-md-4">
+                                    <span class="fa-stack fa-3x">
                                         <i class="fa fa-sticky-note fa-stack-1x text-primary"></i>
                                     </span>
                                     <h4 class="service-heading text-primary">Role</h4>
@@ -31,23 +37,10 @@
                                 </div>
                             </div>
                             
-                            <h3 class="service-heading text-primary">Overview</h3>
-                            <p>{{ post.overview }}</p>
                             <hr class="star-primary">
 
                             {{ post.content }}
 
-                            <ul class="list-inline item-details">
-                                <li>Client:
-                                    <strong class="text-primary">{{ post.client }}</strong>
-                                </li>
-                                <li>Date:
-                                    <strong class="text-primary">{{ post.project-date }}</strong>
-                                </li>
-                                <li>Category:
-                                    <strong class="text-primary">{{ post.category }}</strong>
-                                </li>
-                            </ul>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
                     </div>

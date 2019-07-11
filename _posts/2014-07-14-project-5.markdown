@@ -1,16 +1,20 @@
 ---
-title: Startup Framework
-subtitle: Website Design
+title: Tian Design Story
+subtitle: Game Design, Product Design
 layout: default
 modal-id: 5
-date: 2014-07-14
+date: 2019-01-13
 img: startup-framework.png
 thumbnail: startup-framework-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: Jan 2019
+client: N/A
+category: Game Design, Product Design
+
+team: Tian Dou, Davis Chen
+role: System Design, Coding, Animations
+duration: 4 weeks
+
 
 ---
 <style>
@@ -18,8 +22,22 @@ description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At du
 </style>
 <div class="container">
 <div class="row">
-    <div class="col-md-3 col-sm-1"></div>
-    <div class="col-xs-6 col-sm-5 col-md-3">
+    <span >
+        <img class="img-responsive center-block" style="width: 80vw;" src="img/portfolio/TDDesign-XD-1.png" alt="">
+    </span>
+</div> <!-- row XD-1 -->
+<div class="row">
+    <div class="col-md-4" style="height: 320px;">
+        <div class="vertical-align-center">
+            <img class="img-responsive center-block" src="img/portfolio/group-47.png" alt="">
+        </div>
+    </div> <!-- Game as Resume -->
+    <div class="col-md-4" style="height: 320px;">
+        <div class="vertical-align-center">
+            <h3>‧‧‧‧‧‧‧‧‧‧‧‧</h3>
+        </div>
+    </div>
+    <div class="col-md-4" >
         <div class="flip-container" ontouchstart="this.classList.toggle('hover');">
             <div class="flipper">
                 <div class="front">
@@ -38,12 +56,12 @@ description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At du
                 </div>
             </div>
         </div>
+        <h5 class="service-heading">Hover to check it!</h5>
     </div> <!-- the card -->
-    <div class="col-xs-12 col-sm-5 col-md-3 text-left">
-        <h3 class="service-heading">Game as Resume</h3>
-        <p>Tian and I created this short 2D ACT game presenting her design story and what influences her design style.</p>
-    </div> <!-- Game as Resume -->
-    <div class="col-md-3 col-sm-1"></div>
         
-</div> <!-- row text-center -->
+</div> <!-- row card and content-->
+<div class="row">
+    <h3 class="service-heading">Final Work: <a href="https://dcforce.github.io/td-design/tian-design-story/" target="_blank">Tian Design Story</a></h3>
+    <h4 class="service-heading">GitHub link: <a href="https://github.com/DCForce/td-design" target="_blank">DCForce/td-design</a></h4>
+</div> <!-- row link -->
 </div> <!-- container-fluid -->

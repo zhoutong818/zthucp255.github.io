@@ -13,6 +13,7 @@ category: Web Development
 
 team: Davis Chen, Mengyi Liu, Poppy Huang
 role: System Design, Coding, Landing and Navigation Design
+duration: 4 weeks
 overview: We volunteered to redesigned the website of a local farm named Sobremesa Farm. The new website introduces its history, culture, and products.<br>Besides restructuring the website, we also have implemented some features like newsletter subscriptions and Square online payment system.
 
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
