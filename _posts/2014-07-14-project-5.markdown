@@ -4,8 +4,8 @@ subtitle: Game Design, Product Design
 layout: default
 modal-id: 5
 date: 2019-01-13
-img: startup-framework.png
-thumbnail: startup-framework-thumbnail.png
+img: tddesign.png
+thumbnail: tddesign.png
 alt: image-alt
 project-date: Jan 2019
 client: N/A
