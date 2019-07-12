@@ -1,5 +1,5 @@
 ---
-title: Tian Design Story
+title: Gamified Resume
 subtitle: Game Design, Product Design
 layout: default
 modal-id: 5
