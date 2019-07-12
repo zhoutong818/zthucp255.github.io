@@ -23,7 +23,7 @@ duration: 4 weeks
 <div class="container">
 <div class="row">
     <span >
-        <img class="img-responsive center-block" style="width: 80vw;" src="img/portfolio/TDDesign-XD-1.png" alt="">
+        <img class="img-responsive center-block" style="width: 80vw;" src="img/portfolio/TDDesign-XD-1.png" alt="Background">
     </span>
 </div> <!-- row XD-1 -->
 <div class="row">
@@ -58,10 +58,9 @@ duration: 4 weeks
         </div>
         <h5 class="service-heading">Hover to check it!</h5>
     </div> <!-- the card -->
-        
 </div> <!-- row card and content-->
 <div class="row">
     <h3 class="service-heading">Final Work: <a href="https://dcforce.github.io/td-design/tian-design-story/" target="_blank">Tian Design Story</a></h3>
     <h4 class="service-heading">GitHub link: <a href="https://github.com/DCForce/td-design" target="_blank">DCForce/td-design</a></h4>
-</div> <!-- row link -->
+</div> <!-- row work link -->
 </div> <!-- container-fluid -->
