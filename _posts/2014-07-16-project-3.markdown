@@ -2,7 +2,7 @@
 title: Deck Editor
 subtitle: Learning How to Define UX Problems
 layout: default
-modal-id: 3
+modal-id: 4
 date: 2014-07-16
 img: deckeditor.png
 thumbnail: deckeditor.png

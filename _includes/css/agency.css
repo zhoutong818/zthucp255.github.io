@@ -274,8 +274,8 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/img/header-bg-2.png');
-    /* background-color: #000; */
+    /*background-image: url('{{ site.baseurl }}/img/header-bg-2.png'); */
+    background-color: #000;
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
