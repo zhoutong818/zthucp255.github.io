@@ -1,6 +1,6 @@
 ---
 title: Sobremesa Farm
-subtitle: Redesigned the website of a local farm. <br>It will more accurately portray the exceptional quality of produces that is offered at its farm.
+subtitle: Redesigned the website of a local farm to accurately portray its exceptional product quality.
 layout: default
 modal-id: 1
 date: 2019-07-01
@@ -21,7 +21,8 @@ description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At du
 ---
 <div class="container-fluid">
 <div class="row text-center">
-    <h3 class="service-heading">Website (launched in July 2019): <a href="https://sobremesafarm.com" target="_blank">https://sobremesafarm.com</a></h3>
+    <h3 class="service-heading">Overview</h3>
+    <h4 class="service-heading">Website (launched in July 2019): <a href="https://sobremesafarm.com" target="_blank">https://sobremesafarm.com</a></h4>
 </div>
 <div class="row text-left">
     <span >
