@@ -9,7 +9,7 @@ thumbnail: tddesign.png
 alt: image-alt
 project-date: Jan 2019
 client: N/A
-category: Game Design, Product Design
+category: Unity, C#, Animations
 
 team: Tian Dou, Davis Chen
 role: System Design, Coding, Animations
