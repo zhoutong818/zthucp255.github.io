@@ -20,13 +20,12 @@ description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At du
 
 ---
 <div class="container-fluid">
-<div class="row text-center">
-    <h3 class="service-heading">Overview</h3>
-    <h4 class="service-heading">Website (launched in July 2019): <a href="https://sobremesafarm.com" target="_blank">https://sobremesafarm.com</a></h4>
-</div>
 <div class="row text-left">
     <span >
     <img class="img-responsive center-block" style="width: 80vw;" src="img/portfolio/Sobremesa-XD-2.png" alt="">
     </span>
+</div>
+<div class="row text-center">
+    <h3 class="service-heading">Website (launched in July 2019): <a href="https://sobremesafarm.com" target="_blank">https://sobremesafarm.com</a></h3>
 </div>
 </div> <!-- container-fluid -->
