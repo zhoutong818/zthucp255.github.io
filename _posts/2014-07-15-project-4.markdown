@@ -9,7 +9,7 @@ thumbnail: sobremesa.png
 alt: image-alt
 project-date: June 2019
 client: Sobremesa Farm
-category: Website Design
+category: UX Design, Website Redesign
 
 team: Davis Chen, Mengyi Liu, Poppy Huang
 role: Research, Concept, Prototyping, Developing
