@@ -46,9 +46,9 @@ design:
       <div class="col-md-6">
           <h3 class="service-heading text-center">References</h3>
           <ol class="text-left">
-          <li>Brandon Jones. 2016. What Information Does Facebook Collect About Its Users?. Retrieved March 24, 2018 from http://www.psafe.com/en/blog/information-facebook-collect-users/</li>
+          <li>Brandon Jones. 2016. What Information Does Facebook Collect About Its Users?. Retrieved March 24, 2018 from https://www.psafe.com/en/blog/information-facebook-collect-users/</li>
           <li>David Nield. 2017. Here’s All the Data Collected From You as You Browse the Web. Retrieved March 24, 2018 from https://fieldguide.gizmodo.com/heresall-the-data-collected-from-you-as-you-browsethe-1820779304</li>
-          <li>Paul Boutin. 2016. The Secretive World of Selling Data About You. Retrieved March 24, 2018 from http://www.newsweek.com/secretive-world-selling-dataabout-you-464789</li>
+          <li>Paul Boutin. 2016. The Secretive World of Selling Data About You. Retrieved March 24, 2018 from https://www.newsweek.com/secretive-world-selling-dataabout-you-464789</li>
           <li>Steve Kroft. 2014. The Data Brokers: Selling your personal information. Retrieved March 24, 2018 from https://www.cbsnews.com/news/the-data-brokersselling-your-personal-information/</li>
           </ol>
       </div>
