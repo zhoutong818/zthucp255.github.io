@@ -6,7 +6,6 @@
 * portfolio page "X" icon should be sticky on top right
 * Layout: pages and post
 
-12345
 
 Notes
 ====================
