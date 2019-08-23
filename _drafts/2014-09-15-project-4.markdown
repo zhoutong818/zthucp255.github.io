@@ -1,0 +1,41 @@
+---
+title: Draft - Sobremesa Farm
+subtitle: Redesigned the website of a local farm to accurately portray its exceptional product quality.
+layout: default
+modal-id: 10
+date: 2019-07-01
+img: sobremesa.png
+thumbnail: sobremesa.png
+alt: image-alt
+project-date: June 2019
+client: Sobremesa Farm
+category: UX Design, Website Redesign
+
+team: Davis Chen, Mengyi Liu, Poppy Huang
+role: Research, Concept, Prototyping, Developing
+duration: 4 weeks
+overview: We volunteered to redesigned the website of a local farm named Sobremesa Farm. The new website introduces its history, culture, and products.<br>Besides restructuring the website, we also have implemented some features like newsletter subscriptions and Square online payment system.
+
+description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+
+---
+<div class="container-fluid">
+<div class="row text-left">
+    <h3 class="service-heading">Research</h3>
+    <h4></h4>
+</div>
+<div class="row text-left">
+    <span>
+    <img class="img-responsive center-block" src="img/portfolio/sf-a/Group 66.png" alt="">
+    </span>
+</div>
+<div class="div-line"></div>
+<div class="row text-left">
+    <span >
+    <img class="img-responsive center-block" src="img/portfolio/sf-a/Group 65.png" alt="">
+    </span>
+</div>
+<div class="row text-center">
+    <h3 class="service-heading">Website (launched from July 2019): <a href="https://sobremesafarm.com" target="_blank">https://sobremesafarm.com</a></h3>
+</div>
+</div> <!-- container-fluid -->
