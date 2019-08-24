@@ -63,4 +63,4 @@ duration: 4 weeks
     <h3 class="service-heading">Final Work: <a href="https://dcforce.github.io/td-design/tian-design-story/" target="_blank">Tian Design Story</a></h3>
     <h4 class="service-heading">GitHub link: <a href="https://github.com/DCForce/td-design" target="_blank">DCForce/td-design</a></h4>
 </div> <!-- row work link -->
-</div> <!-- container-fluid -->
+</div> <!-- container -->

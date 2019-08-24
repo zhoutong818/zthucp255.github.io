@@ -7,7 +7,7 @@
             </div>
             <div class="container-fluid">
                 <div class="row">
-                    <div class="col-xl-12 ">
+                    <div class="col-xl-12">
                         <div class="modal-body">
                             <h2>{{ post.title }}</h2>
                             <p>{{ post.subtitle }}</p>
@@ -39,8 +39,16 @@
                             
                             <hr class="star-primary">
 
-                            {{ post.content }}
+                            
 
+                            
+                        </div>
+                    </div>
+                </div>
+                {{ post.content }}
+                <div class="row">
+                    <div class="col-xl-12">
+                        <div class="modal-body">
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
                     </div>

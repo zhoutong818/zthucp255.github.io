@@ -15,14 +15,21 @@ description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At du
 
 team: Davis Chen, Libby Gress, Ryan Leibering
 role: Competitive Analysis, Insight Generation, Mockup
-
+duration: 2 weeks
 background: orem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in
 ---
-
-<div class="container-fluid">
-<div class="row text-left">
-    <span >
-    <img class="img-responsive center-block" style="width: 80vw;" src="img/portfolio/Template-Picker-XD.png" alt="">
-    </span>
+<div class="row"> <!-- eternal structure: row col-xl-12 modal-body 1-->
+<div class="col-xl-12"> <!-- eternal structure: row col-xl-12 modal-body 2-->
+<div class="modal-body"> <!-- eternal structure: row col-xl-12 modal-body 3-->
+    <!-- post content start-->
+    <div class="container">
+    <div class="row text-left">
+        <span >
+        <img class="img-responsive center-block" style="width: 80vw;" src="img/portfolio/Template-Picker-XD.png" alt="">
+        </span>
+    </div>
+    </div> <!-- container -->
+    <!-- post content end-->
+</div> <!-- eternal structure: row col-xl-12 modal-body 4-->
+</div> <!-- eternal structure: row col-xl-12 modal-body 5-->
 </div>
-</div> <!-- container-fluid -->

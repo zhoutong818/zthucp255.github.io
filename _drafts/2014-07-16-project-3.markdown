@@ -8,8 +8,23 @@ img: deckeditor.png
 thumbnail: deckeditor.png
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
+client: N/A
 category: UX Design
+
+team: Davis Chen, Mengyi Liu, Poppy Huang
+role: Research, Concept, Prototyping, Developing
+duration: 4 weeks
+overview: We volunteered to redesigned the website of a local farm named Sobremesa Farm. The new website introduces its history, culture, and products.<br>Besides restructuring the website, we also have implemented some features like newsletter subscriptions and Square online payment system.
+
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
 
 ---
+<div class="row"> <!-- eternal structure: row col-xl-12 modal-body 1-->
+<div class="col-xl-12"> <!-- eternal structure: row col-xl-12 modal-body 2-->
+<div class="modal-body"> <!-- eternal structure: row col-xl-12 modal-body 3-->
+    <!-- post content start-->
+    
+    <!-- post content end-->
+</div> <!-- eternal structure: row col-xl-12 modal-body 4-->
+</div> <!-- eternal structure: row col-xl-12 modal-body 5-->
+</div> 
