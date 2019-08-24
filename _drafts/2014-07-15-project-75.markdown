@@ -93,16 +93,16 @@ description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At du
     </div>
     <div class="row text-left text-general">
         <div class="col-lg-12">
-        <h1 class="service-heading">The Solutions</h1>
-            <p>We found two features based on our research to support their needs in their farming business:</p>
+        <h1 class="service-heading">Design Concept</h1>
+            <p>In addition to adding new content, we also implemented two features based on our research to support their needs in their farming business:</p>
             <ul>
                 <li>
                     <h5>Online payments</h5>
-                    <p>Insteading of coming and purchasing at the farm, customers have an easier way to pay. I did researches on Wordpress, which is the platform they are comfortable with, and implement a Square payment plug-in named WP Easy Pay.</p>
+                    <p>Instead of coming and purchasing at the farm, customers have an easier way to pay. I did researches on Wordpress, which is the platform they are comfortable with, and implement a Square payment plug-in named WP Easy Pay.</p>
                 </li>
                 <li>
                     <h5>Email newsletter subscription</h5>
-                    <p>Originally they asked visitors to leave their email on papers and emailed them manually to disseminate events information. So I did researches and imported a email marketing service tool Mailchimp to the website.</p>
+                    <p>Originally they asked visitors to leave their email on papers and emailed them manually to disseminate events information. So I did researches and imported an email marketing service tool Mailchimp to the website.</p>
                 </li>
             </ul>
         </div>
