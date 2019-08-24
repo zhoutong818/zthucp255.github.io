@@ -22,16 +22,16 @@ description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At du
 
 design:
 ---
-<div class="row" style="background-color: black;"> <!-- eternal structure: row col-xl-12 modal-body 1-->
+<div class="row bg-darkest-gray" > <!-- eternal structure: row col-xl-12 modal-body 1-->
 <div class="col-xl-12"> <!-- eternal structure: row col-xl-12 modal-body 2-->
 <div class="modal-body"> <!-- eternal structure: row col-xl-12 modal-body 3-->
     <!-- post content start-->
     <div class="container">
       <div class="row text-left" >
-        <div class="col-md-6">
+        <div class="col-lg-6">
           <iframe width="560" height="315" src="https://www.youtube.com/embed/1vSejrGjO1U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
-        <div class="col-md-6 text-info" style="padding-top: 5%;">
+        <div class="col-lg-6 text-info" style="padding-top: 5%;">
         <h3 style="text-transform:none; color: #fff; word-spacing: 5px; line-hright: 5px;">We asked, how might we make the public more aware of the fact that their data is often sold for purposes they have not authorized to people they do not know?</h3>
         </div>
       </div>

@@ -1,0 +1,123 @@
+---
+title: Draft2
+subtitle: Redesigned the website of a local farm to accurately portray its exceptional product quality.
+layout: default
+modal-id: 8
+date: 2019-07-01
+img: sobremesa.png
+thumbnail: sobremesa.png
+alt: image-alt
+project-date: June 2019
+client: Sobremesa Farm
+category: UX Design, Website Redesign
+
+team: Davis Chen, Mengyi Liu, Poppy Huang
+role: Research, Concept, Prototyping, Developing
+duration: 4 weeks
+overview: We volunteered to redesigned the website of a local farm named Sobremesa Farm. The new website introduces its history, culture, and products.<br>Besides restructuring the website, we also have implemented some features like newsletter subscriptions and Square online payment system.
+
+description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+
+---
+<div class="row"> <!-- eternal structure: row col-xl-12 modal-body 1-->
+<div class="col-xl-12"> <!-- eternal structure: row col-xl-12 modal-body 2-->
+<div class="modal-body"> <!-- eternal structure: row col-xl-12 modal-body 3-->
+    <!-- post content start-->
+    <div class="container">
+    <div class="row text-left text-general">
+        <div class="col-lg-12">
+        <h1 class="service-heading">Background</h1>
+            <p>Sobremesa Farm was founded in 2013 with the idea of providing organically grown farm fresh fruit and vegetables directly to the local community. They have a Facebook page and Instagram page like other farms. But they want a professional website to increase visibility and do online business.<br>They meet us because one of our team member Mengyi visited and interviewed them for a school project last year.</p>
+        </div>
+    </div>
+    <div class="div-line"></div>
+    </div> <!-- container -->
+    <!-- post content end-->
+</div> <!-- eternal structure: row col-xl-12 modal-body 4-->
+</div> <!-- eternal structure: row col-xl-12 modal-body 5-->
+</div>
+
+<div class="row bg-light-gray"> <!-- eternal structure: row col-xl-12 modal-body 1 *edit bg color here*-->
+<div class="col-xl-12"> <!-- eternal structure: row col-xl-12 modal-body 2-->
+<div class="modal-body"> <!-- eternal structure: row col-xl-12 modal-body 3-->
+    <!-- post content start-->
+    <div class="container">
+    <div class="row text-center text-general">
+        <div class="col-lg-12">
+            <h1 class="service-heading">Research</h1>
+        </div>
+    </div>
+    <div class="div-line"></div>
+    <div class="row text-left ">
+        <div class="col-lg-6">
+            <span >
+            <img class="img-responsive center-block" src="img/portfolio/sf-a/Group 96.png" alt="">
+            </span>
+        </div>
+        <div class="col-lg-1"></div>
+        <div class="col-lg-5" style="margin-top: 20%;">
+            <h2 class="service-heading">Understanding Client's Needs</h2>
+            <p>Firstable, we face-to-face talked to Carlos and Robert to understand client's needs. Also, we asked them about how they usually run their business, who are their customers, and what feedback and comments they have received.</p>
+        </div>
+    </div>
+    <div class="div-line"></div>
+    <div class="row text-left ">
+        <div class="col-lg-6">
+            <span >
+            <img class="img-responsive center-block" src="img/portfolio/sf-a/Group 95.png" alt="">
+            </span>
+        </div>
+        <div class="col-lg-1"></div>
+        <div class="col-lg-5" style="margin-top: 20%;">
+            <h2 class="service-heading">Defining Project Scope and Website Proposal</h2>
+            <p>Our main goal is to use the website to publicize the farm. By creating a project scope based on that, we clearly set expectations for our clients. Besides, we reported to them weekly so they would know how things were moving along.</p>
+        </div>
+    </div>
+    <div class="div-line"></div>
+    </div> <!-- container -->
+    <!-- post content end-->
+</div> <!-- eternal structure: row col-xl-12 modal-body 4-->
+</div> <!-- eternal structure: row col-xl-12 modal-body 5-->
+</div>
+
+<div class="row"> <!-- eternal structure: row col-xl-12 modal-body 1 *edit bg color here*-->
+<div class="col-xl-12"> <!-- eternal structure: row col-xl-12 modal-body 2-->
+<div class="modal-body"> <!-- eternal structure: row col-xl-12 modal-body 3-->
+    <!-- post content start-->
+    <div class="container">
+    <div class="row text-left text-general">
+        <div class="col-lg-12">
+        <h1 class="service-heading">Problem Statement</h1>
+            <p>During the field research, personally experience the farm and interview some users, we believe that Sobremesa Farm needs a website that will <strong>more accurately portray the exceptional quality of produces</strong> that is offered at its farm, and drive an <strong>increase in market attention and satisfied customers.</strong></p>
+        </div>
+    </div>
+    <div class="row text-left text-general">
+        <div class="col-lg-12">
+        <h1 class="service-heading">The Solutions</h1>
+            <p>We found two features based on our research to support their needs in their farming business:</p>
+            <ul>
+                <li>
+                    <h5>Online payments</h5>
+                    <p>Insteading of coming and purchasing at the farm, customers have an easier way to pay. I did researches on Wordpress, which is the platform they are comfortable with, and implement a Square payment plug-in named WP Easy Pay.</p>
+                </li>
+                <li>
+                    <h5>Email newsletter subscription</h5>
+                    <p>Originally they asked visitors to leave their email on papers and emailed them manually to disseminate events information. So I did researches and imported a email marketing service tool Mailchimp to the website.</p>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="div-line"></div>
+    <div class="row text-left">
+        <span >
+        <img class="img-responsive center-block" src="img/portfolio/Sobremesa-XD-2.png" alt="">
+        </span>
+    </div>
+    <div class="row text-center">
+        <h3 class="service-heading">Website (launched from July 2019): <a href="https://sobremesafarm.com" target="_blank">https://sobremesafarm.com</a></h3>
+    </div>
+    </div> <!-- container -->
+    <!-- post content end-->
+</div> <!-- eternal structure: row col-xl-12 modal-body 4-->
+</div> <!-- eternal structure: row col-xl-12 modal-body 5-->
+</div>

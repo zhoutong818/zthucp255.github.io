@@ -101,3 +101,12 @@
 .div-line {
     margin-bottom: 60px;
 }
+
+.text-general {
+    max-width: 768px;
+    margin: 0 auto;
+}
+
+p.original {
+    font-size: 14px;
+}
