@@ -817,14 +817,17 @@ ul.social-buttons li a:active {
 }
 
 .portfolio-modal .close-modal {
-    position: absolute;
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    margin: 0px 0px 0px auto; /* For sticky */
+    z-index: 1000; /* For sticky */
     top: 25px;
     right: 25px;
     width: 75px;
     height: 75px;
     background-color: transparent;
     cursor: pointer;
-    opacity: .3;
+    opacity: .5;
 }
 
 .portfolio-modal .close-modal:hover {
