@@ -135,8 +135,8 @@ description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At du
             </h4>
             <ul class="insight-list insight-color-2">
                 <li><p >Embed the photos from Facebook and Instagram on the homepage to increase interests.</p></li>
-                <li><p >Import an email marketing automation service Mailchimp to the website.</p></li>
-                <li><p >Implement a Wordpress plug-in named WP Easy Pay so customers have an easier way to pay.</p></li>
+                <li><p >Implement email newsletter subscription feature to help grow the community and better to maintain connections with contacts and existing customers.</p></li>
+                <li><p >Implement online payments system so customers will have an easier way to pay.</p></li>
                 <li><p >Apply the layout to portfolio-style and add about page and contact form to get a better connection with visitors.</p></li>
             </ul>
         </div>

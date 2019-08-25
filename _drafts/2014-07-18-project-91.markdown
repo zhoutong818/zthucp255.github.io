@@ -1,0 +1,123 @@
+---
+title: DataMart - Draft
+subtitle: Designed a content to make people think that how to protect personal online data as they feel necessary.<br>Utilized Premiere Pro and After Effects to create clips of rich content as prototype to present the design idea.
+layout: default
+modal-id: 9
+date: '2014-07-18'
+img: datamart.png
+thumbnail: datamart.png
+alt: image-alt
+project-date: April 2018
+client: N/A
+category: Concept Design
+
+team: Davis Chen, Nick Freeland, Xun He, Somalia Jamall
+role: Insights, Music & Sounds, Video Editing, Acting
+duration: 3 weeks
+overview: Designed a content to make people think that how to protect personal online data as they feel necessary.<br>Utilized Premiere Pro and After Effects to create clips of rich content as prototype to present the design idea.
+
+description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo
+  novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo
+  diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+
+design:
+---
+<div class="row bg-darkest-gray" > <!-- eternal structure: row col-xl-12 modal-body 1-->
+<div class="col-xl-12"> <!-- eternal structure: row col-xl-12 modal-body 2-->
+<div class="modal-body"> <!-- eternal structure: row col-xl-12 modal-body 3-->
+    <!-- post content start-->
+    <div class="container">
+      <div class="row text-left" >
+        <div class="col-lg-6">
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/1vSejrGjO1U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        <div class="col-lg-6 text-info" style="padding-top: 5%;">
+        <h3 style="text-transform:none; color: #fff; word-spacing: 5px; line-hright: 5px;">We asked, how might we make the public more aware of the fact that their data is often sold for purposes they have not authorized to people they do not know?</h3>
+        </div>
+      </div>
+    </div>
+    <!-- post content end-->
+</div> <!-- eternal structure: row col-xl-12 modal-body 4-->
+</div> <!-- eternal structure: row col-xl-12 modal-body 5-->
+</div>
+<div class="row"> <!-- eternal structure: row col-xl-12 modal-body 1-->
+<div class="col-xl-12"> <!-- eternal structure: row col-xl-12 modal-body 2-->
+<div class="modal-body"> <!-- eternal structure: row col-xl-12 modal-body 3-->
+    <!-- post content start-->
+    <div class="container"> 
+    <div class="row text-left text-general">
+        <div class="col-lg-12">
+        <h1 class="service-heading">Background</h1>
+        </div>
+    </div>
+    <div class="row text-left text-general">
+        <div class="col-lg-7 col-sm-7 col-xs-7">
+          <p>In the case of the Cambridge Analytica scandal in early 2018, user data was acquired from Facebook to create more targeted political advertising, with the promise of swaying a major election. Governments can also gain access to this data. This case reminds us that we must be aware that our data can be used in ways that we don’t knowingly consent to.</p>
+        </div>
+        <div class="col-lg-5 col-sm-5 col-xs-5">
+          <span >
+          <img class="img-responsive center-block" src="img/portfolio/datamart-background.png" alt="">
+          </span>
+        </div>
+    </div>
+    <div class="row text-left text-general">
+        <div class="col-lg-12">
+        <h1 class="service-heading">Interest</h1>
+        </div>
+    </div>
+    <div class="row text-left text-general">
+        <div class="col-lg-7 col-sm-7 col-xs-7">
+          <p>Before we sign up for a new service or buy a new piece of technology, we must ask ourselves:</p>
+          <ul class="text-muted" style="font-style: italic;">
+            <li><p>What kind of data is being collected from me?</p></li>
+            <li><p>Am I comfortable with this data being sold and used in ways I may never know about?</p></li>
+          </ul>
+        </div>
+        <div class="col-lg-5 col-sm-5 col-xs-5">
+          <span >
+          <img class="img-responsive center-block" src="img/portfolio/datamart-social.png" alt="">
+          </span>
+        </div>
+    </div>
+    <div class="row text-left text-general">
+        <div class="col-lg-12">
+        <h1 class="service-heading">Overview</h1>
+        </div>
+    </div>
+    <div class="row text-left text-general">
+        <div class="col-lg-7 col-sm-7 col-xs-7">
+          <p>Our solution is a VR experience that forces users to confront their lack of agency in this situation by physically putting the user in the middle of such a transaction.</p>
+        </div>
+        <div class="col-lg-5 col-sm-5 col-xs-5">
+          <span >
+          <img class="img-responsive center-block" src="img/portfolio/datamart-overview.png" alt="">
+          </span>
+        </div>
+    </div>
+    <div class="row text-left">
+      <span >
+      <img class="img-responsive center-block" src="img/portfolio/DataMart-XD.png" alt="">
+      </span>
+    </div>
+    <div class="row ">
+        <div class="col-md-6">
+            <h3 class="service-heading text-center">Researches</h3>
+            <p class="text-left">We should be wary about the other ways this data might be utilized. Everyday, the data we create gets stored by the applications, devices, and websites we use [1, 2]. Mostly, this information is used to convince users to buy things: “Websites need data to make their products better and to sell you the advertisements that keep them afloat,” says David Nield of Gizmodo [2].<br>
+      Paul Stephens, a director at the Privacy Rights Clearinghouse, says “It’s hard to tell who’s selling what to whom” [3]. This fact could be disturbing to some people. The fact that many people either (1) don’t know what data is being collected from them when they use a new app/website and (2) don’t know for what purposes this data is being sold becomes an issues of consent. We know that there are companies such as Acxiom that traffic in our data, and that they have “on average, 1,500 pieces of information on more than 200 million Americans” [4].</p>
+        </div>
+        <div class="col-md-6">
+            <h3 class="service-heading text-center">References</h3>
+            <ol class="text-left">
+            <li>Brandon Jones. 2016. What Information Does Facebook Collect About Its Users?. Retrieved March 24, 2018 from https://www.psafe.com/en/blog/information-facebook-collect-users/</li>
+            <li>David Nield. 2017. Here’s All the Data Collected From You as You Browse the Web. Retrieved March 24, 2018 from https://fieldguide.gizmodo.com/heresall-the-data-collected-from-you-as-you-browsethe-1820779304</li>
+            <li>Paul Boutin. 2016. The Secretive World of Selling Data About You. Retrieved March 24, 2018 from https://www.newsweek.com/secretive-world-selling-dataabout-you-464789</li>
+            <li>Steve Kroft. 2014. The Data Brokers: Selling your personal information. Retrieved March 24, 2018 from https://www.cbsnews.com/news/the-data-brokersselling-your-personal-information/</li>
+            </ol>
+        </div>
+    </div><!-- row -->
+
+  </div> <!-- container -->
+    <!-- post content end-->
+</div> <!-- eternal structure: row col-xl-12 modal-body 4-->
+</div> <!-- eternal structure: row col-xl-12 modal-body 5-->
+</div>

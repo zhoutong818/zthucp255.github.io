@@ -2,7 +2,7 @@
 title: Sobremesa Farm (Old)
 subtitle: Redesigned the website of a local farm to accurately portray its exceptional product quality.
 layout: default
-modal-id: 1
+modal-id: 50
 date: 2019-07-01
 img: sobremesa.png
 thumbnail: sobremesa.png
