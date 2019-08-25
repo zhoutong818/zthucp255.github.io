@@ -1,8 +1,8 @@
 ---
-title: Draft - Sobremesa Farm
+title: Sobremesa Farm (Old)
 subtitle: Redesigned the website of a local farm to accurately portray its exceptional product quality.
 layout: default
-modal-id: 10
+modal-id: 1
 date: 2019-07-01
 img: sobremesa.png
 thumbnail: sobremesa.png
@@ -24,27 +24,16 @@ description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At du
 <div class="modal-body"> <!-- eternal structure: row col-xl-12 modal-body 3-->
     <!-- post content start-->
     <div class="container">
-        <div class="row text-left">
-            <h3 class="service-heading">Research</h3>
-            <p>123</p>
-        </div>
-        <div class="row text-left">
-            <span>
-            <img class="img-responsive center-block" src="img/portfolio/sf-a/Group 66.png" alt="">
-            </span>
-        </div>
-        <div class="div-line"></div>
-        <div class="row text-left">
-            <span >
-            <img class="img-responsive center-block" src="img/portfolio/sf-a/Group 65.png" alt="">
-            </span>
-        </div>
-        <div class="row text-center">
-            <h3 class="service-heading">Website (launched from July 2019): <a href="https://sobremesafarm.com" target="_blank">https://sobremesafarm.com</a></h3>
-        </div>
+    <div class="row text-left">
+        <span >
+        <img class="img-responsive center-block" src="img/portfolio/Sobremesa-XD-2.png" alt="">
+        </span>
+    </div>
+    <div class="row text-center">
+        <h3 class="service-heading">Website (launched from July 2019): <a href="https://sobremesafarm.com" target="_blank">https://sobremesafarm.com</a></h3>
+    </div>
     </div> <!-- container -->
     <!-- post content end-->
 </div> <!-- eternal structure: row col-xl-12 modal-body 4-->
 </div> <!-- eternal structure: row col-xl-12 modal-body 5-->
 </div> 
-

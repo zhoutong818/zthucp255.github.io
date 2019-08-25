@@ -1,0 +1,274 @@
+---
+title: Sobremesa Farm
+subtitle: Redesigned the website of a local farm to accurately portray its exceptional product quality.
+layout: default
+modal-id: 1
+date: 2019-07-01
+img: sobremesa.png
+thumbnail: sobremesa.png
+alt: image-alt
+project-date: June 2019
+client: Sobremesa Farm
+category: UX Design, Website Redesign
+
+team: Davis Chen, Mengyi Liu, Poppy Huang
+role: Research, Concept, Prototyping, Developing
+duration: 4 weeks
+overview: We volunteered to redesigned the website of a local farm named Sobremesa Farm. The new website introduces its history, culture, and products.<br>Besides restructuring the website, we also have implemented some features like newsletter subscriptions and Square online payment system.
+
+description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+
+---
+<div class="row"> <!-- eternal structure: row col-xl-12 modal-body 1-->
+<div class="col-xl-12"> <!-- eternal structure: row col-xl-12 modal-body 2-->
+<div class="modal-body"> <!-- eternal structure: row col-xl-12 modal-body 3-->
+    <!-- post content start-->
+    <div class="container">
+    <div class="row text-left text-general">
+        <div class="col-lg-12">
+        <h1 class="service-heading">Client Intro</h1>
+        </div>
+    </div>
+    <div class="row text-left text-general">
+        <div class="col-lg-9 col-sm-9">
+            <p>Sobremesa Farm was founded in 2013 with the idea of providing organically grown farm fresh fruit and vegetables directly to the local community. They upon a permaculture approach because of the flexibility, variability and regenerative models.</p>
+        </div>
+        <div class="col-lg-3 col-sm-3">
+            <span >
+            <img class="img-responsive center-block" src="img/portfolio/sf-a/farm-logo.jpg" alt="">
+            </span>
+        </div>
+    </div>
+    <div class="row text-left text-general">
+        <div class="col-lg-12">
+        <h1 class="service-heading">The Challenge</h1>
+        <p>Sobremesa Farm already has their own social media pages to connect with the locals. Although they have a simple website used to improve their position on the search engine result page, the website used blog layout and only had little information about the farm. From the very first conversations, we decided to help them design and build a more professional website to increase visibility and do online business.</p>
+        <p class="large">Limitation:</p>
+        <ul>
+            <li>Build and host the website on the same platform and domain (Wordpress.org)</li>
+        </ul>
+        </div>
+    </div>
+    <div class="div-line"></div>
+    <div class="row text-left text-general">
+        <div class="col-lg-12">
+            <span >
+            <img class="img-responsive center-block" src="img/portfolio/sf-a/Group 97.png" alt="">
+            </span>
+        </div>
+    </div>
+    <div class="div-line"></div>
+    </div> <!-- container -->
+    <!-- post content end-->
+</div> <!-- eternal structure: row col-xl-12 modal-body 4-->
+</div> <!-- eternal structure: row col-xl-12 modal-body 5-->
+</div>
+
+<div class="row bg-light-gray"> <!-- eternal structure: row col-xl-12 modal-body 1 *edit bg color here*-->
+<div class="col-xl-12"> <!-- eternal structure: row col-xl-12 modal-body 2-->
+<div class="modal-body"> <!-- eternal structure: row col-xl-12 modal-body 3-->
+    <!-- post content start-->
+    <div class="container">
+    <div class="row text-center text-general">
+        <div class="col-lg-12">
+            <h1 class="service-heading">Research</h1>
+        </div>
+    </div>
+    <div class="div-line"></div>
+    <div class="row text-left ">
+        <div class="col-lg-6">
+            <span >
+            <img class="img-responsive center-block" src="img/portfolio/sf-a/Group 98.png" alt="">
+            </span>
+        </div>
+        <div class="col-lg-1"></div>
+        <div class="col-lg-5" style="margin-top: 20%;">
+            <h2 class="service-heading">Understanding Client's Needs</h2>
+            <p>We face-to-face talked to the owners Carlos and Robert to understand their needs: how they want their website look like, how they usually run their business, who are their customers, and what feedback and comments they have received in person or from the Internet; We also did a field research to explore the farm and to experience what visitors do at the farm.</p>
+            <div class="div-line"></div>
+            <h2 class="service-heading">Explore More</h2>
+            <p>We observed the employers doing their daily job like farming, cleaning, and feeding animals. We also collected exemplars to help us understand farm websites.</p>
+        </div>
+    </div>
+    <div class="div-line"></div>
+    </div> <!-- container -->
+    <!-- post content end-->
+</div> <!-- eternal structure: row col-xl-12 modal-body 4-->
+</div> <!-- eternal structure: row col-xl-12 modal-body 5-->
+</div>
+
+<div class="row"> <!-- eternal structure: row col-xl-12 modal-body 1 *edit bg color here*-->
+<div class="col-xl-12"> <!-- eternal structure: row col-xl-12 modal-body 2-->
+<div class="modal-body"> <!-- eternal structure: row col-xl-12 modal-body 3-->
+    <!-- post content start-->
+    <div class="container">
+    <div class="row text-left ">
+        <div class="col-lg-12">
+        <h1 class="service-heading">Insights & Solutions</h1>
+            <p>During the researches, personally experience the farm and interview some visitors, we believe that Sobremesa Farm needs a website that will <strong>more accurately portray the exceptional quality of produces</strong> that is offered at its farm, and drive an <strong>increase in market attention and satisfied customers.</strong></p>
+        </div>
+    </div>
+    <div class="row text-left ">
+        <div class="col-lg-6">
+            <h4 class="service-heading">
+            <span class="fa-stack fa-1x">
+            <i class="fa fa-circle fa-stack-2x insight-icon-1"></i>
+            <i class="fa fa-search fa-stack-1x fa-inverse"></i>
+            </span>
+            What We Found
+            </h4>
+            <ul class="insight-list insight-color-1">
+                <li><p >The client takes photos of the farm and uploads to the Facebook page and Instagram, and these photos always get positive feedback.</p></li>
+                <li><p >The client will ask visitors who come to the farm to leave their email on papers and emailed them manually to disseminate events information.</p></li>
+                <li><p >Many visitors who love their goods said it's inconvenient to come and pay at the farm.</p></li>
+                <li><p >Some people message the client on Facebook to ask what products they have and decide to come here.</p></li>
+                <li><p >Most visitors are interested in more history of the farm, but they only could get little information on the website.</p></li>
+            </ul>
+        </div>
+        <div class="col-lg-6">
+            <h4 class="service-heading">
+            <span class="fa-stack fa-1x">
+            <i class="fa fa-circle fa-stack-2x insight-icon-2"></i>
+            <i class="fa fa-check fa-stack-1x fa-inverse"></i>
+            </span>
+            Insights & Solutions
+            </h4>
+            <ul class="insight-list insight-color-2">
+                <li><p >Embed the photos from Facebook and Instagram on the homepage to increase interests.</p></li>
+                <li><p >Import an email marketing automation service Mailchimp to the website.</p></li>
+                <li><p >Implement a Wordpress plug-in named WP Easy Pay so customers have an easier way to pay.</p></li>
+                <li><p >Apply the layout to portfolio-style and add about page and contact form to get a better connection with visitors.</p></li>
+            </ul>
+        </div>
+    </div>
+    <div class="div-line"></div>
+    </div> <!-- container -->
+    <!-- post content end-->
+</div> <!-- eternal structure: row col-xl-12 modal-body 4-->
+</div> <!-- eternal structure: row col-xl-12 modal-body 5-->
+</div>
+
+<div class="row bg-light-gray"> <!-- eternal structure: row col-xl-12 modal-body 1 *edit bg color here*-->
+<div class="col-xl-12"> <!-- eternal structure: row col-xl-12 modal-body 2-->
+<div class="modal-body"> <!-- eternal structure: row col-xl-12 modal-body 3-->
+    <!-- post content start-->
+    <div class="container">
+    <div class="row text-left">
+        <div class="col-lg-12">
+            <h1 class="service-heading">Design Concept</h1>
+            <p class="large">Based on our solution list, we created a new sitemap first, and built wireframes next.</p>
+        </div>
+    </div>
+    <div class="row text-left">
+        <div class="col-lg-6">
+            <span>
+            <h4 class="service-heading">Sitemap</h4>
+            <a href="img/portfolio/sf-a/sitemap-img.png" target="_blank"><img class="img-responsive center-block" src="img/portfolio/sf-a/sitemap-img.png" alt="Sitemap"></a>
+            </span>
+        </div>
+        <div class="col-lg-6">
+            <span>
+            <h4 class="service-heading">Paper Wireframes</h4>
+            <a href="img/portfolio/sf-a/paper-wireframes@2x.png" target="_blank">
+            <img class="img-responsive center-block" src="img/portfolio/sf-a/paper-wireframes.png" alt="Paper Wireframes"></a>
+            </span>
+        </div>
+    </div>
+    <div class="div-line"></div>
+    <div class="row text-left">
+        <div class="col-lg-12">
+            <p class="large">After that, we built a workable prototype showing the new website design and receiving feedback from our client.</p>
+        </div>
+    </div>
+    <div class="row text-left text-general">
+        <div class="col-lg-12">
+            <span>
+            <a href="https://xd.adobe.com/view/13cdc293-273c-461e-5d19-1c6136b0e6c8-65fc/?fullscreen" target="_blank">
+            <h4 class="service-heading">Click to Run Prototype</h4>
+            <img class="img-responsive center-block" src="img/portfolio/sf-a/SobremesaFarm-prototype-2.jpg" alt="Prototype"></a>
+            </span>
+        </div>
+    </div>
+    <div class="div-line"></div>
+    <div class="row text-left">
+        <div class="col-lg-12">
+            <p class="large">After iterating, we decided our final version and applied the theme:</p>
+        </div>
+    </div> 
+    <div class="row text-left">   
+        <div class="col-lg-12">
+            <span>
+            <h4 class="service-heading">Click to See the Full Image</h4>
+            <a href="img/portfolio/sf-a/final-design.jpg" target="_blank">
+            <img class="img-responsive center-block" src="img/portfolio/sf-a/final-hero-image.png" alt="Final Design"></a>
+            </span>
+        </div>
+    </div>
+    <div class="div-line"></div>
+    </div> <!-- container -->
+    <!-- post content end-->
+</div> <!-- eternal structure: row col-xl-12 modal-body 4-->
+</div> <!-- eternal structure: row col-xl-12 modal-body 5-->
+</div>
+
+<div class="row"> <!-- eternal structure: row col-xl-12 modal-body 1 *edit bg color here*-->
+<div class="col-xl-12"> <!-- eternal structure: row col-xl-12 modal-body 2-->
+<div class="modal-body"> <!-- eternal structure: row col-xl-12 modal-body 3-->
+    <!-- post content start-->
+    <div class="container">
+    <div class="row text-left">
+        <div class="col-lg-12">
+            <h1 class="service-heading">Development, Testing and Publishing</h1>
+            <p class="large">To accomplish our design of online payments and email marketing service, I did researches on Wordpress plug-ins and implement a Square payment plug-in named <a href="https://wordpress.org/plugins/wp-easy-pay/" target="_blank">WP Easy Pay</a>. It provides accepting online credit card systems to the new Sobremesa Farm site. Next, I registerd a <a href="https://mailchimp.com" target="_blank">Mailchimp</a> account for our client and installed a related plug-in to run the email newsletter feature on the new site.</p>
+            <p class="large">After on-site testing session with our client, we launch the new website on a Saturday. Because the farm opens every Sunday, we think it would be great to ready the new look before opening day.</p>
+        </div>
+    </div>
+    <div class="row text-left">
+        <div class="col-lg-6">
+            <span>
+            <h4 class="service-heading">Before</h4>
+            <a href="img/portfolio/sf-a/sf-before.png" target="_blank"><img class="img-responsive center-block" src="img/portfolio/sf-a/sf-before.png" alt="Before"></a>
+            </span>
+        </div>
+        <div class="col-lg-6">
+            <span>
+            <h4 class="service-heading">After</h4>
+            <a href="img/portfolio/sf-a/sf-after.png" target="_blank">
+            <img class="img-responsive center-block" src="img/portfolio/sf-a/sf-after.png" alt="After"></a>
+            </span>
+        </div>
+    </div>
+    <div class="div-line"></div>
+    <div class="row text-left text-general">
+        <div class="col-lg-6">
+            <span>
+            <h4 class="service-heading">Online Payments with Square</h4>
+            <img class="img-responsive center-block" src="img/portfolio/sf-a/Group 79.png" alt="">
+            </span>
+        </div>
+        <div class="col-lg-6">
+            <span>
+            <h4 class="service-heading">Email Newsletter</h4>
+            <img class="img-responsive center-block" src="img/portfolio/sf-a/email-img.png" alt="">
+            </span>
+        </div>
+    </div>
+    <div class="row text-left text-general">
+        <div class="col-lg-6">
+            <span>
+            <h4 class="service-heading">Portfolio-style Website</h4>
+            <img class="img-responsive center-block" src="img/portfolio/sf-a/Group 87.png" alt="">
+            </span>
+        </div>
+        <div class="col-lg-6">
+            <span>
+            <h4 class="service-heading">Rich Content</h4>
+            <img class="img-responsive center-block" src="img/portfolio/sf-a/content-img.png" alt="">
+            </span>
+        </div>
+    </div>
+    </div> <!-- container -->
+    <!-- post content end-->
+</div> <!-- eternal structure: row col-xl-12 modal-body 4-->
+</div> <!-- eternal structure: row col-xl-12 modal-body 5-->
+</div>

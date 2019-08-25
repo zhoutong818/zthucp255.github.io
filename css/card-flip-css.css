@@ -110,3 +110,23 @@
 p.original {
     font-size: 14px;
 }
+
+.insight-list {
+    box-shadow: 2px 3px 6px #ccc;
+    padding: 15px 15px 15px 40px;
+}
+
+.insight-color-1 {
+    background: lightgreen;
+}
+
+.insight-icon-1 {
+    color: lightgreen;
+}
+
+.insight-color-2 {
+    background: lightskyblue;
+}
+.insight-icon-2 {
+    color: lightskyblue;
+}
