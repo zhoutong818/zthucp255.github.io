@@ -218,9 +218,9 @@ description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At du
     <div class="container">
     <div class="row text-left">
         <div class="col-lg-12">
-            <h1 class="service-heading">Development, Testing and Publishing</h1>
-            <p class="large">To accomplish our design of online payments and email marketing service, I did researches on Wordpress plug-ins and implement a Square payment plug-in named <a href="https://wordpress.org/plugins/wp-easy-pay/" target="_blank">WP Easy Pay</a>. It provides accepting online credit card systems to the new Sobremesa Farm site. Next, I registerd a <a href="https://mailchimp.com" target="_blank">Mailchimp</a> account for our client and installed a related plug-in to run the email newsletter feature on the new site.</p>
-            <p class="large">After on-site testing session with our client, we launch the new website on a Saturday. Because the farm opens every Sunday, we think it would be great to ready the new look before opening day.</p>
+            <h1 class="service-heading">Development, Testing, and Publishing</h1>
+            <p>To accomplish our design of online payments and email marketing service, I did researches on Wordpress plug-ins and implement a Square payment plug-in named <a href="https://wordpress.org/plugins/wp-easy-pay/" target="_blank">WP Easy Pay</a>. It provides accepting online credit card systems to the new Sobremesa Farm site. Next, I registerd a <a href="https://mailchimp.com" target="_blank">Mailchimp</a> account for our client and installed a related plug-in to run the email newsletter feature on the new site.</p>
+            <p>After on-site testing session with our client, we launch the new website on a Saturday. Because the farm opens every Sunday, we think it would be great to ready the new look before opening day.</p>
         </div>
     </div>
     <div class="row text-left">
