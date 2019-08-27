@@ -9,7 +9,7 @@ thumbnail: datamart.png
 alt: image-alt
 project-date: April 2018
 client: N/A
-category: Concept Design
+category: Video, Critical Design
 
 team: Davis Chen, Nick Freeland, Xun He, Somalia Jamall
 role: Insights, Music & Sounds, Video Editing, Acting
@@ -22,7 +22,7 @@ description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At du
 
 design:
 ---
-<div class="row bg-darkest-gray" > <!-- eternal structure: row col-xl-12 modal-body 1-->
+<div class="row data-card" > <!-- eternal structure: row col-xl-12 modal-body 1-->
 <div class="col-xl-12"> <!-- eternal structure: row col-xl-12 modal-body 2-->
 <div class="modal-body"> <!-- eternal structure: row col-xl-12 modal-body 3-->
     <!-- post content start-->
