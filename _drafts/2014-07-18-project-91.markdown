@@ -35,6 +35,12 @@ design:
         <h3 style="text-transform:none; color: #fff; word-spacing: 5px; line-hright: 5px;">We asked, how might we make the public more aware of the fact that their data is often sold for purposes they have not authorized to people they do not know?</h3>
         </div>
       </div>
+      <div class="row text-left" >
+        <div class="col-lg-12">
+          <h3 style="text-transform:none; word-spacing: 5px; line-hright: 5px;">We asked, how might we make the public more aware of the fact that their data is often sold for purposes they have not authorized to people they do not know?</h3>
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/1vSejrGjO1U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+      </div>
     </div>
     <!-- post content end-->
 </div> <!-- eternal structure: row col-xl-12 modal-body 4-->
