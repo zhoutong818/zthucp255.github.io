@@ -106,6 +106,14 @@
     background-image: linear-gradient(to bottom, #f7f7f7, #f9f9f9, #fbfbfb, #fdfdfd, #ffffff);
 }
 
+.bg-gradient-white-gray {
+    background-image: linear-gradient(to bottom, #ffffff, #fdfdfd, #fbfbfb, #f9f9f9, #f7f7f7);
+}
+
+
+
+
+
 .text-general {
     max-width: 768px;
     margin: 0 auto;
