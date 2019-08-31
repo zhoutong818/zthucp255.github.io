@@ -9,7 +9,7 @@ thumbnail: datamart.png
 alt: image-alt
 project-date: April 2018
 client: N/A
-category: Concept Design
+category: Video, Critical Design
 
 team: Davis Chen, Nick Freeland, Xun He, Somalia Jamall
 role: Insights, Music & Sounds, Video Editing, Acting
