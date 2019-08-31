@@ -52,7 +52,7 @@ description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At du
     <div class="div-line"></div>
     <div class="row text-left text-general">
         <div class="col-lg-12">
-            <span >
+            <span>
             <img class="img-responsive center-block" src="img/portfolio/sf-a/Group 97.png" alt="">
             </span>
         </div>
