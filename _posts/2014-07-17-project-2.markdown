@@ -67,19 +67,19 @@ background: orem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo 
     <div class="container">
     <div class="div-line"></div>
     <div class="row text-left text-general">
-        <div class="col-lg-6 col-md-7 col-sm-7 col-xs-7" style="margin-top: 20%;">
+        <div class="col-lg-6 col-md-7 col-sm-7">
             <h1 class="service-heading">Design Process</h1>
             <ol>
-                <li>Competitive Analysis</li>
-                <li>Data Analysis</li>
-                <li>Key Assumptions & Insights</li>
-                <li>Problem & Sketches</li>
-                <li>Final Mockups</li>
+                <li><p>Competitive Analysis</p></li>
+                <li><p>Data Analysis</p></li>
+                <li><p>Key Assumptions & Insights</p></li>
+                <li><p>Problem & Sketches</p></li>
+                <li><p>Final Mockups</p></li>
             </ol>
         </div>
-        <div class="col-lg-6 col-md-5 col-sm-5 col-xs-5">
+        <div class="col-lg-6 col-md-5 col-sm-5">
             <span >
-            <img class="img-responsive center-block" src="img/portfolio/tp-a/tp-problem.png" alt="">
+            <a href="img/portfolio/tp-a/tp-problem.png" target="_blank"><img class="img-responsive center-block" src="img/portfolio/tp-a/tp-problem.png" alt=""></a>
             </span>
         </div>
     </div>
@@ -102,7 +102,7 @@ background: orem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo 
         <h1 class="service-heading">Competitive Analysis</h1>
         <p>At the beginning of this project, we did a competitive analysis. It led us to the insight that Lucidchart overall gave more guidance than competitors in their chart-making experience, but seemed to have the same amount of guidance as their competitors in the template picker itself.</p>
         <span>
-            <img class="img-responsive center-block" src="img/portfolio/tp-a/tp-competitive.png" alt="">
+            <a href="img/portfolio/tp-a/tp-competitive.png" target="_blank"><img class="img-responsive center-block" src="img/portfolio/tp-a/tp-competitive.png" alt=""></a>
             </span>
       </div>
       <div class="col-lg-1"></div>
@@ -114,10 +114,10 @@ background: orem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo 
         <h1 class="service-heading">Data Analysis</h1>
         <p>Lucidchart's research team provided a template survey collected from different workflows / information sources in of their product. While analyzing the survey, we categorized customer complaints into three broader sections of issues.</p>
         <span>
-        <img class="img-responsive center-block" src="img/portfolio/tp-a/tp-ana.png" alt="">
+        <a href="img/portfolio/tp-a/tp-ana.png" target="_blank"><img class="img-responsive center-block" src="img/portfolio/tp-a/tp-ana.png" alt=""></a>
         </span>
         <span>
-        <img class="img-responsive center-block" src="img/portfolio/tp-a/tp-pie-chart.png" alt="">
+        <a href="img/portfolio/tp-a/tp-pie-chart.png" target="_blank"><img class="img-responsive center-block" src="img/portfolio/tp-a/tp-pie-chart.png" alt=""></a>
         </span>
         <h4 class="service-heading">Conclusions Made</h4>
             <ol>
@@ -135,7 +135,7 @@ background: orem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo 
       <div class="col-lg-10 tp-card">
         <h1 class="service-heading">Key Assumptions & Insights</h1>
         <span>
-            <img class="img-responsive center-block" src="img/portfolio/tp-a/tp-insights.png" alt="">
+            <a href="img/portfolio/tp-a/tp-insights.png" target="_blank"><img class="img-responsive center-block" src="img/portfolio/tp-a/tp-insights.png" alt=""></a>
             </span>
       </div>
       <div class="col-lg-1"></div>
@@ -146,7 +146,7 @@ background: orem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo 
       <div class="col-lg-10 tp-card">
         <h1 class="service-heading">Problem Space</h1>
         <span>
-            <img class="img-responsive center-block" src="img/portfolio/tp-a/tp-ps.png" alt="">
+            <a href="img/portfolio/tp-a/tp-ps.png" target="_blank"><img class="img-responsive center-block" src="img/portfolio/tp-a/tp-ps.png" alt=""></a>
             </span>
       </div>
       <div class="col-lg-1"></div>
@@ -175,7 +175,7 @@ background: orem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo 
         </div>
         <div class="col-lg-12">
             <span >
-            <img class="img-responsive center-block" src="img/portfolio/tp-a/tp-1stdesign.png" alt="">
+            <a href="img/portfolio/tp-a/tp-1stdesign.png" target="_blank"><img class="img-responsive center-block" src="img/portfolio/tp-a/tp-1stdesign.png" alt=""></a>
             </span>
         </div>
         <div class="col-lg-12">
@@ -184,7 +184,7 @@ background: orem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo 
         </div>
         <div class="col-lg-12">
             <span >
-            <img class="img-responsive center-block" src="img/portfolio/tp-a/tp-2nddesign.png" alt="">
+            <a href="img/portfolio/tp-a/tp-2nddesign.png" target="_blank"><img class="img-responsive center-block" src="img/portfolio/tp-a/tp-2nddesign.png" alt=""></a>
             </span>
         </div>
     </div>
