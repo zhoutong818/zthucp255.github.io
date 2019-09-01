@@ -1,6 +1,6 @@
 ---
 title: Template Picker
-subtitle: Working on Real-world Design Problems
+subtitle: Working on real-world ux design problems. There is design constraints on this project.
 layout: default
 modal-id: 2
 date: 2014-07-17
@@ -18,16 +18,201 @@ role: Competitive Analysis, Insight Generation, Mockup
 duration: 2 weeks
 background: orem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in
 ---
-<div class="row"> <!-- eternal structure: row col-xl-12 modal-body 1-->
+<div class="row"> <!-- eternal structure: row col-xl-12 modal-body 1 *edit bg color here*-->
 <div class="col-xl-12"> <!-- eternal structure: row col-xl-12 modal-body 2-->
 <div class="modal-body"> <!-- eternal structure: row col-xl-12 modal-body 3-->
     <!-- post content start-->
     <div class="container">
-    <div class="row text-left">
-        <span >
-        <img class="img-responsive center-block" style="width: 80vw;" src="img/portfolio/Template-Picker-XD.png" alt="">
-        </span>
+    <div class="row text-left text-general">
+        <div class="col-lg-12">
+          <h1 class="service-heading">Company Overview</h1>
+          <p><a href="https://www.lucidchart.com" target="_blank">Lucidchart</a> is an online diagramming platform. The <strong>Template Picker</strong> in Lucidchart allows users to start a new diagramming by choosing one of the templates from its library.</p>
+        </div>
+        <div class="col-lg-12">
+            <span >
+            <img class="img-responsive center-block" src="img/portfolio/tp-a/tp-bg.png" alt="">
+            </span>
+        </div>
+        <div class="col-lg-12">
+            <h1 class="service-heading">The Challenge</h1>
+            <p>Our design challenge is to design a new Template Picker experience for Lucidchart users.</p>
+            <h4 class="service-heading">Constraint</h4>
+            <ul>
+                <li>Don’t change the diagram categories.</li>
+                <li>Only use Lucid’s design components to design a solution.</li>
+            </ul>
+            <h4 class="service-heading">Research Data</h4>
+            <ul>
+                <li>Lucid have run surveys and collected data from different sources. In this project, we want to analyze the below data they provided:
+                    <ul>
+                        <li>Voice of Customer (Payment Cancel Survey, Header Cancel Survey)</li>
+                        <li>Template Survey</li>
+                        <li>Prior A/B Tests</li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
     </div>
+    <div class="div-line"></div>
+    </div> <!-- container -->
+    <!-- post content end-->
+</div> <!-- eternal structure: row col-xl-12 modal-body 4-->
+</div> <!-- eternal structure: row col-xl-12 modal-body 5-->
+</div>
+
+<div class="row bg-light-gray"> <!-- eternal structure: row col-xl-12 modal-body 1 *edit bg color here*-->
+<div class="col-xl-12"> <!-- eternal structure: row col-xl-12 modal-body 2-->
+<div class="modal-body"> <!-- eternal structure: row col-xl-12 modal-body 3-->
+    <!-- post content start-->
+    <div class="container">
+    <div class="div-line"></div>
+    <div class="row text-left text-general">
+        <div class="col-lg-6 col-md-7 col-sm-7 col-xs-7" style="margin-top: 20%;">
+            <h1 class="service-heading">Design Process</h1>
+            <ol>
+                <li>Competitive Analysis</li>
+                <li>Data Analysis</li>
+                <li>Key Assumptions & Insights</li>
+                <li>Problem & Sketches</li>
+                <li>Final Mockups</li>
+            </ol>
+        </div>
+        <div class="col-lg-6 col-md-5 col-sm-5 col-xs-5">
+            <span >
+            <img class="img-responsive center-block" src="img/portfolio/tp-a/tp-problem.png" alt="">
+            </span>
+        </div>
+    </div>
+    <div class="div-line"></div>
+    </div> <!-- container -->
+    <!-- post content end-->
+</div> <!-- eternal structure: row col-xl-12 modal-body 4-->
+</div> <!-- eternal structure: row col-xl-12 modal-body 5-->
+</div>
+
+<div class="row"> <!-- eternal structure: row col-xl-12 modal-body 1 *edit bg color here*-->
+<div class="col-xl-12"> <!-- eternal structure: row col-xl-12 modal-body 2-->
+<div class="modal-body"> <!-- eternal structure: row col-xl-12 modal-body 3-->
+    <!-- post content start-->
+    <div class="container">
+    <div class="div-line"></div>
+    <div class="row text-left text-general">
+      <div class="col-lg-1"></div>
+      <div class="col-lg-10 tp-card">
+        <h1 class="service-heading">Competitive Analysis</h1>
+        <p>At the beginning of this project, we did a competitive analysis. It led us to the insight that Lucidchart overall gave more guidance than competitors in their chart-making experience, but seemed to have the same amount of guidance as their competitors in the template picker itself.</p>
+        <span>
+            <img class="img-responsive center-block" src="img/portfolio/tp-a/tp-competitive.png" alt="">
+            </span>
+      </div>
+      <div class="col-lg-1"></div>
+    </div>
+    <div class="div-line"></div>
+    <div class="row text-left text-general">
+      <div class="col-lg-1"></div>
+      <div class="col-lg-10 tp-card">
+        <h1 class="service-heading">Data Analysis</h1>
+        <p>Lucidchart's research team provided a template survey collected from different workflows / information sources in of their product. While analyzing the survey, we categorized customer complaints into three broader sections of issues.</p>
+        <span>
+        <img class="img-responsive center-block" src="img/portfolio/tp-a/tp-ana.png" alt="">
+        </span>
+        <span>
+        <img class="img-responsive center-block" src="img/portfolio/tp-a/tp-pie-chart.png" alt="">
+        </span>
+        <h4 class="service-heading">Conclusions Made</h4>
+            <ol>
+                <li>As a starting point</li>
+                    <ul><li>Users use a template as a starting point and manipulate the template directly.</li></ul>
+                <li>As a guide</li>
+                    <ul><li>Users look off of a template as a guide while building their own template.</li></ul>
+            </ol>
+      </div>
+      <div class="col-lg-1"></div>
+    </div>
+    <div class="div-line"></div>
+    <div class="row text-left text-general">
+      <div class="col-lg-1"></div>
+      <div class="col-lg-10 tp-card">
+        <h1 class="service-heading">Key Assumptions & Insights</h1>
+        <span>
+            <img class="img-responsive center-block" src="img/portfolio/tp-a/tp-insights.png" alt="">
+            </span>
+      </div>
+      <div class="col-lg-1"></div>
+    </div>
+    <div class="div-line"></div>
+    <div class="row text-left text-general">
+      <div class="col-lg-1"></div>
+      <div class="col-lg-10 tp-card">
+        <h1 class="service-heading">Problem Space</h1>
+        <span>
+            <img class="img-responsive center-block" src="img/portfolio/tp-a/tp-ps.png" alt="">
+            </span>
+      </div>
+      <div class="col-lg-1"></div>
+    </div>
+    <div class="div-line"></div>
+    </div> <!-- container -->
+    <!-- post content end-->
+</div> <!-- eternal structure: row col-xl-12 modal-body 4-->
+</div> <!-- eternal structure: row col-xl-12 modal-body 5-->
+</div>
+
+<div class="row"> <!-- eternal structure: row col-xl-12 modal-body 1 *edit bg color here*-->
+<div class="col-xl-12"> <!-- eternal structure: row col-xl-12 modal-body 2-->
+<div class="modal-body"> <!-- eternal structure: row col-xl-12 modal-body 3-->
+    <!-- post content start-->
+    <div class="container">
+    <div class="row text-left text-general">
+        <div class="col-lg-12">
+            <h1 class="service-heading">Final Mockups</h1>
+        </div>
+    </div>
+    <div class="row text-left text-general">
+        <div class="col-lg-12">
+          <h2 class="service-heading">1st Design: Lefthand Navigation Pane</h2>
+          <p>Our competitive analysis shows that a lefthand navigation pane seems to be an industry standard among template pickers. And through a more casual analysis of desktop applications, lefthand navigation panes also seemed to be the standard as well.</p>
+        </div>
+        <div class="col-lg-12">
+            <span >
+            <img class="img-responsive center-block" src="img/portfolio/tp-a/tp-1stdesign.png" alt="">
+            </span>
+        </div>
+        <div class="col-lg-12">
+            <h2 class="service-heading">2nd: Search Bar</h2>
+            <p>Based on our research, we wanted to re-introduce the search bar to provide a navigational shortcut for users.</p>
+        </div>
+        <div class="col-lg-12">
+            <span >
+            <img class="img-responsive center-block" src="img/portfolio/tp-a/tp-2nddesign.png" alt="">
+            </span>
+        </div>
+    </div>
+    <div class="div-line"></div>
+    </div> <!-- container -->
+    <!-- post content end-->
+</div> <!-- eternal structure: row col-xl-12 modal-body 4-->
+</div> <!-- eternal structure: row col-xl-12 modal-body 5-->
+</div>
+
+<div class="row bg-light-gray"> <!-- eternal structure: row col-xl-12 modal-body 1 *edit bg color here*-->
+<div class="col-xl-12"> <!-- eternal structure: row col-xl-12 modal-body 2-->
+<div class="modal-body"> <!-- eternal structure: row col-xl-12 modal-body 3-->
+    <!-- post content start-->
+    <div class="container">
+    <div class="div-line"></div>
+    <div class="row text-left text-general">
+        <div class="col-lg-12">
+        <h1 class="service-heading">What did I learn from this project</h1>
+        <ol>
+            <li><p>Working on real-world design problems, we listen, think, and present what we get.</p></li>
+            <li><p>Generating insights and defining a problem space from a reliable and huge amount of data.</p></li>
+            <li><p>Keeping iterating again and again in order to get the specific design.</p></li>
+            <li><p>Post-mortem meeting is a good way to not only increase morale but see our blind spots clearly.</p></li>
+        </ol>
+        </div>
+    </div>
+    <div class="div-line"></div>
     </div> <!-- container -->
     <!-- post content end-->
 </div> <!-- eternal structure: row col-xl-12 modal-body 4-->

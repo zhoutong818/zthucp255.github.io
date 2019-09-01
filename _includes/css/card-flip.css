@@ -194,3 +194,7 @@ p.original {
 	transform: translateX(-80px);
 	overflow: hidden;
 }
+
+.tp-card {
+    border: 6px solid #ccc;
+}
