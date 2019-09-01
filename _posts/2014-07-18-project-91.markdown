@@ -1,0 +1,188 @@
+---
+title: DataMart
+subtitle: Designed a content to make people think that how to protect personal online data as they feel necessary.<br>Utilized Premiere Pro and After Effects to create clips of rich content as prototype to present the design idea.
+layout: default
+modal-id: 3
+date: '2014-07-18'
+img: datamart.png
+thumbnail: datamart.png
+alt: image-alt
+project-date: April 2018
+client: N/A
+category: Video, Critical Design
+
+team: Davis Chen, Nick Freeland, Xun He, Somalia Jamall
+role: Insights, Music & Sounds, Video Editing, Acting
+duration: 3 weeks
+overview: Designed a content to make people think that how to protect personal online data as they feel necessary.<br>Utilized Premiere Pro and After Effects to create clips of rich content as prototype to present the design idea.
+
+description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo
+  novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo
+  diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+
+design:
+---
+<div class="row bg-light-gray"> <!-- eternal structure: row col-xl-12 modal-body 1 *edit bg color here*-->
+<div class="col-xl-12"> <!-- eternal structure: row col-xl-12 modal-body 2-->
+<div class="modal-body"> <!-- eternal structure: row col-xl-12 modal-body 3-->
+    <!-- post content start-->
+    <div class="container">
+    <div class="row text-left">
+      <div class="col-lg-12">
+      <h1 class="service-heading">Abstract</h1>
+      <p>Walking down the street or sitting at home, we are constantly producing data, which is then trafficked. Whether we like it or not we give something in return for signing up and participating in social media or other platforms. While most social media applications are “free” what we don’t realize is that it is us who are the product. Data brokers such as Acxiom collect as much as 1,500 different pieces of information on all of us, and they sell this information to parties unknown.</p>
+      <h4 class="service-heading">We asked, how might we make the public more aware of the fact that their data is often sold for purposes they have not authorized to people they do not know?</h4>
+      </div>
+    </div>
+    </div> <!-- container -->
+    <!-- post content end-->
+</div> <!-- eternal structure: row col-xl-12 modal-body 4-->
+</div> <!-- eternal structure: row col-xl-12 modal-body 5-->
+</div>
+
+<div class="row"> <!-- eternal structure: row col-xl-12 modal-body 1 *edit bg color here*-->
+<div class="col-xl-12"> <!-- eternal structure: row col-xl-12 modal-body 2-->
+<div class="modal-body"> <!-- eternal structure: row col-xl-12 modal-body 3-->
+    <!-- post content start-->
+    <div class="container">
+    <div class="div-line"></div>
+    <div class="row text-left">
+        <div class="col-lg-7 col-sm-7 col-xs-7">
+          <h1 class="service-heading">Background</h1>
+          <p>In the case of the Cambridge Analytica scandal in early 2018, user data was acquired from Facebook to create more targeted political advertising, with the promise of swaying a major election. Governments can also gain access to this data. This case reminds us that we must be aware that our data can be used in ways that we don’t knowingly consent to.</p>
+        </div>
+        <div class="col-lg-5 col-sm-5 col-xs-5">
+          <span >
+          <img class="img-responsive center-block" src="img/portfolio/datamart-background.png" alt="">
+          </span>
+        </div>
+    </div>
+    <div class="div-line"></div>
+    <div class="row text-left">
+        <div class="col-lg-7 col-sm-7 col-xs-7">
+          <h1 class="service-heading">Interest</h1>
+          <p>Before we sign up for a new service or buy a new piece of technology, we must ask ourselves:</p>
+          <ul class="text-muted" style="font-style: italic;">
+            <li><p>What kind of data is being collected from me?</p></li>
+            <li><p>Am I comfortable with this data being sold and used in ways I may never know about?</p></li>
+          </ul>
+        </div>
+        <div class="col-lg-5 col-sm-5 col-xs-5">
+          <span >
+          <img class="img-responsive center-block" src="img/portfolio/datamart-social.png" alt="">
+          </span>
+        </div>
+    </div>
+    </div> <!-- container -->
+    <!-- post content end-->
+</div> <!-- eternal structure: row col-xl-12 modal-body 4-->
+</div> <!-- eternal structure: row col-xl-12 modal-body 5-->
+</div>
+
+<div class="row bg-light-gray"> <!-- eternal structure: row col-xl-12 modal-body 1-->
+<div class="col-xl-12"> <!-- eternal structure: row col-xl-12 modal-body 2-->
+<div class="modal-body"> <!-- eternal structure: row col-xl-12 modal-body 3-->
+    <!-- post content start-->
+    <div class="container "> 
+    <div class="row text-left">
+        <div class="col-lg-12">
+        <h1 class="service-heading">Design Overview</h1>
+        <p>Our concept is a VR art installation that will demonstrate to a user firsthand their data being sold, and show them how painful it can be to have their agency about this process removed. At the start they will be totally immersed in new technologies that entice them to interact with their world in fun ways. At the end it will be revealed that the data they’ve input into these applications is being sold without their consent.</p>
+        </div>
+        <div class="col-lg-6 col-md-6">
+          <span >
+          <h5 class="service-heading">The man enters the VR exhibit</h5>
+          <img class="img-responsive center-block" src="img/portfolio/data-a/dr1.jpg" alt="">
+          </span>
+        </div>
+        <div class="col-lg-6 col-md-6">
+          <span >
+          <h5 class="service-heading">He puts on his headset and enters the DataMart experience</h5>
+          <img class="img-responsive center-block" src="img/portfolio/data-a/dr2.jpg" alt="">
+          </span>
+        </div>
+        <div class="col-lg-6 col-md-6">
+          <span >
+          <h5 class="service-heading">In the VR world, he wakes up 100 years in the future</h5>
+          <img class="img-responsive center-block" src="img/portfolio/data-a/dr3.jpg" alt="">
+          </span>
+        </div>
+        <div class="col-lg-6 col-md-6">
+          <span >
+          <h5 class="service-heading">His vision is overlaid with AR data about his day</h5>
+          <img class="img-responsive center-block" src="img/portfolio/data-a/dr4.jpg" alt="">
+          </span>
+        </div>
+    </div>
+  </div> <!-- container -->
+    <!-- post content end-->
+</div> <!-- eternal structure: row col-xl-12 modal-body 4-->
+</div> <!-- eternal structure: row col-xl-12 modal-body 5-->
+</div>
+
+<div class="row "> <!-- eternal structure: row col-xl-12 modal-body 1 *edit bg color here*-->
+<div class="col-xl-12"> <!-- eternal structure: row col-xl-12 modal-body 2-->
+<div class="modal-body"> <!-- eternal structure: row col-xl-12 modal-body 3-->
+    <!-- post content start-->
+    <div class="container">
+    <div class="row text-left data-card">
+        <div class="col-lg-6 col-sm-6 col-xs-6">
+          <h1 class="service-heading">Envision an innovative way for interacting with information in the future.</h1>
+          <p>Showing how technology use could evolve over time to affect one’s daily life and ability to “opt-out” of use.</p>
+        </div>
+        <div class="col-lg-6 col-sm-6 col-xs-6">
+          <span >
+          <img class="img-responsive center-block" src="img/portfolio/data-a/dr5.jpg" style="margin-bottom: 0px;" alt="">
+          </span>
+        </div>
+    </div>
+    <div class="div-line"></div>
+    <div class="row text-left data-card">
+        <div class="col-lg-6 col-sm-6 col-xs-6">
+          <h1 class="service-heading">Show the user a fantasy representation of their data being bought and sold.</h1>
+          <p>This should force the user to confront this issue in a more “real” way. The user will have to grapple with their own sense of powerlessness about the situation.</p>
+        </div>
+        <div class="col-lg-6 col-sm-6 col-xs-6">
+          <span >
+          <img class="img-responsive center-block" src="img/portfolio/data-a/dr6.jpg" style="margin-bottom: 0px;" alt="">
+          </span>
+        </div>
+    </div>
+    <div class="div-line"></div>
+    <div class="row text-left data-card">
+        <div class="col-lg-6 col-sm-6 col-xs-6">
+          <h1 class="service-heading">Provide a paper proof of their private data being purchased after the VR experience ends.</h1>
+          <p>This will allow the user to relate the events of their future/fantasy VR experience to things that are happening in their current day-to-day life, and to reflect later.</p>
+        </div>
+        <div class="col-lg-6 col-sm-6 col-xs-6">
+          <span >
+          <img class="img-responsive center-block" src="img/portfolio/data-a/dr7.jpg" style="margin-bottom: 0px;" alt="">
+          </span>
+        </div>
+    </div>
+    <div class="div-line"></div>
+    </div> <!-- container -->
+    <!-- post content end-->
+</div> <!-- eternal structure: row col-xl-12 modal-body 4-->
+</div> <!-- eternal structure: row col-xl-12 modal-body 5-->
+</div>
+
+<div class="row"> <!-- eternal structure: row col-xl-12 modal-body 1-->
+<div class="col-xl-12"> <!-- eternal structure: row col-xl-12 modal-body 2-->
+<div class="modal-body"> <!-- eternal structure: row col-xl-12 modal-body 3-->
+    <!-- post content start-->
+    <div class="container">
+      <div class="row text-center" >
+        <div class="col-lg-12">
+          <h3 class="service-heading">Final Deliverable: "DataMart" (05m19s)</h3>
+          <div style="padding-top: 56.25%; position: relative; overflow: hidden;"><iframe allowfullscreen="" scrolling="no" style="position: absolute; height: 100%; width: 100%; left: 0px; top: 0px;" src="https://onelineplayer.com/player.html?autoplay=false&loop=false&autopause=false&muted=false&url=https%3A%2F%2Fvimeo.com%2F356513591&poster=&time=true&progressBar=true&playButton=true&overlay=true&muteButton=true&fullscreenButton=true&style=light&logo=false&quality=1080p" frameborder="0"></iframe></div>
+        </div>
+        <div class="col-lg-12">
+          <p></p>
+        </div>
+      </div>
+    </div>
+    <!-- post content end-->
+</div> <!-- eternal structure: row col-xl-12 modal-body 4-->
+</div> <!-- eternal structure: row col-xl-12 modal-body 5-->
+</div>

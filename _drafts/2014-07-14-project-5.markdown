@@ -17,9 +17,6 @@ duration: 4 weeks
 
 
 ---
-<style>
-    @import url(css/card-flip-css.css);
-</style>
 <div class="container">
 <div class="row">
     <span >
