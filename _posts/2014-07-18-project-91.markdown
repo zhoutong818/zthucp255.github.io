@@ -16,10 +16,7 @@ role: Insights, Music & Sounds, Video Editing, Acting
 duration: 3 weeks
 overview: Designed a content to make people think that how to protect personal online data as they feel necessary.<br>Utilized Premiere Pro and After Effects to create clips of rich content as prototype to present the design idea.
 
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo
-  novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo
-  diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+description: 
 design:
 ---
 <div class="row bg-light-gray"> <!-- eternal structure: row col-xl-12 modal-body 1 *edit bg color here*-->
@@ -125,12 +122,13 @@ design:
 <div class="modal-body"> <!-- eternal structure: row col-xl-12 modal-body 3-->
     <!-- post content start-->
     <div class="container">
+    <div class="div-line"></div>
     <div class="row text-left data-card">
-        <div class="col-lg-6 col-sm-6 col-xs-6">
+        <div class="col-lg-6 col-md-6">
           <h1 class="service-heading">Envision an innovative way for interacting with information in the future.</h1>
           <p>Showing how technology use could evolve over time to affect one’s daily life and ability to “opt-out” of use.</p>
         </div>
-        <div class="col-lg-6 col-sm-6 col-xs-6">
+        <div class="col-lg-6 col-md-6">
           <span >
           <img class="img-responsive center-block" src="img/portfolio/data-a/dr5.jpg" style="margin-bottom: 0px;" alt="">
           </span>
@@ -138,11 +136,11 @@ design:
     </div>
     <div class="div-line"></div>
     <div class="row text-left data-card">
-        <div class="col-lg-6 col-sm-6 col-xs-6">
+        <div class="col-lg-6 col-md-6">
           <h1 class="service-heading">Show the user a fantasy representation of their data being bought and sold.</h1>
           <p>This should force the user to confront this issue in a more “real” way. The user will have to grapple with their own sense of powerlessness about the situation.</p>
         </div>
-        <div class="col-lg-6 col-sm-6 col-xs-6">
+        <div class="col-lg-6 col-md-6">
           <span >
           <img class="img-responsive center-block" src="img/portfolio/data-a/dr6.jpg" style="margin-bottom: 0px;" alt="">
           </span>
@@ -150,11 +148,11 @@ design:
     </div>
     <div class="div-line"></div>
     <div class="row text-left data-card">
-        <div class="col-lg-6 col-sm-6 col-xs-6">
+        <div class="col-lg-6 col-md-6">
           <h1 class="service-heading">Provide a paper proof of their private data being purchased after the VR experience ends.</h1>
           <p>This will allow the user to relate the events of their future/fantasy VR experience to things that are happening in their current day-to-day life, and to reflect later.</p>
         </div>
-        <div class="col-lg-6 col-sm-6 col-xs-6">
+        <div class="col-lg-6 col-md-6">
           <span >
           <img class="img-responsive center-block" src="img/portfolio/data-a/dr7.jpg" style="margin-bottom: 0px;" alt="">
           </span>
@@ -174,11 +172,8 @@ design:
     <div class="container">
       <div class="row text-center" >
         <div class="col-lg-12">
-          <h3 class="service-heading">Final Deliverable: "DataMart" (05m19s)</h3>
-          <div style="padding-top: 56.25%; position: relative; overflow: hidden;"><iframe allowfullscreen="" scrolling="no" style="position: absolute; height: 100%; width: 100%; left: 0px; top: 0px;" src="https://onelineplayer.com/player.html?autoplay=false&loop=false&autopause=false&muted=false&url=https%3A%2F%2Fvimeo.com%2F356513591&poster=&time=true&progressBar=true&playButton=true&overlay=true&muteButton=true&fullscreenButton=true&style=light&logo=false&quality=1080p" frameborder="0"></iframe></div>
-        </div>
-        <div class="col-lg-12">
-          <p></p>
+          <h1 class="service-heading">Final Deliverable: "DataMart" (05m19s)</h1>
+          <div style="padding-top: 56.25%; position: relative; overflow: hidden; box-shadow: 0px 0px 20px #7dd4a8;"><iframe allowfullscreen="" scrolling="no" style="position: absolute; height: 100%; width: 100%; left: 0px; top: 0px;" src="https://onelineplayer.com/player.html?autoplay=false&loop=false&autopause=false&muted=false&url=https%3A%2F%2Fvimeo.com%2F356513591&poster=&time=true&progressBar=true&playButton=true&overlay=true&muteButton=true&fullscreenButton=true&style=light&logo=false&quality=1080p" frameborder="0"></iframe></div>
         </div>
       </div>
     </div>
