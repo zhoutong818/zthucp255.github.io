@@ -15,3 +15,31 @@
 
     <!-- Custom Theme JavaScript -->
     <script src="{{ "/js/agency.js" | prepend: site.baseurl }}"></script>
+
+    
+    <script src="{{ "/js/jquery.ripples.js" | prepend: site.baseurl }}"></script>
+    <script>
+      $(document).ready(function() {
+         try {
+            $('header').ripples({
+               resolution: 512,
+               dropRadius: 15, //px
+               perturbance: 0.04,
+            });
+         }
+         catch (e) {
+            $('.error').show().text(e);
+         }
+      
+         // Automatic drops
+         setInterval(function() {
+            var $el = $('header');
+            var x = Math.random() * $el.outerWidth();
+            var y = Math.random() * $el.outerHeight();
+            var dropRadius = 20;
+            var strength = 0.04 + Math.random() * 0.04;
+      
+            $el.ripples('drop', x, y, dropRadius, strength);
+         }, 3000);
+      });
+      </script>

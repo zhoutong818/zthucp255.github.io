@@ -283,6 +283,8 @@ header {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+
+    cursor: crosshair;
 }
 
 header .intro-text {
