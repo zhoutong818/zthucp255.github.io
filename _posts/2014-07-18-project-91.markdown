@@ -24,7 +24,7 @@ design:
 <div class="modal-body"> <!-- eternal structure: row col-xl-12 modal-body 3-->
     <!-- post content start-->
     <div class="container">
-    <div class="row text-left">
+    <div class="row text-left text-general">
       <div class="col-lg-12">
       <h1 class="service-heading">Abstract</h1>
       <p>Walking down the street or sitting at home, we are constantly producing data, which is then trafficked. Whether we like it or not we give something in return for signing up and participating in social media or other platforms. While most social media applications are “free” what we don’t realize is that it is us who are the product. Data brokers such as Acxiom collect as much as 1,500 different pieces of information on all of us, and they sell this information to parties unknown.</p>
