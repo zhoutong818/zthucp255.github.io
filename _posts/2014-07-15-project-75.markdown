@@ -78,7 +78,10 @@ description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At du
     <div class="row text-left ">
         <div class="col-lg-6">
             <span >
-            <img class="img-responsive center-block" src="img/portfolio/sf-a/Group 98.png" alt="">
+            <picture>
+                <source srcset="img/portfolio/sf-a/Group-98.webp" type="image/webp">
+                <img class="img-responsive center-block" src="img/portfolio/sf-a/Group 98.png" alt="">
+            </picture>
             </span>
         </div>
         <div class="col-lg-1"></div>
