@@ -122,8 +122,8 @@ p.original {
 .insight-list {
     box-shadow: 3px 4px 6px #ccc;
     padding: 15px 15px 15px 40px;
-    border-radius: 5px;
-    border-bottom-right-radius: 35px;
+    border-radius: 10px;
+    /* border-bottom-right-radius: 35px; */
 }
 
 .insight-color-1 {
