@@ -20,7 +20,7 @@
                         <img src="img/portfolio/{{ post.thumbnail }}" class="img-responsive img-centered" alt="">
                     </a>
                     <div class="portfolio-caption">
-                        <h4>{{ post.title }}</h4>
+                        <a href="#portfolioModal{{ post.modal-id }}" class="portfolio-link" data-toggle="modal"><h4>{{ post.title }}</h4></a>
                         <p class="text-muted">{{ post.category }}</p>
                     </div>
                 </div>
