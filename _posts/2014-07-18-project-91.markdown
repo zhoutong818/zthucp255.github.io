@@ -12,7 +12,7 @@ client: N/A
 category: Video, Critical Design
 
 team: Davis Chen, Nick Freeland, Xun He, Somalia Jamall
-role: Insights, Music & Sounds, Video Editing, Acting
+role: Insights, Video Scripts, Video Editing, Actor
 duration: 3 weeks
 overview: Designed a content to make people think that how to protect personal online data as they feel necessary.<br>Utilized Premiere Pro and After Effects to create clips of rich content as prototype to present the design idea.
 

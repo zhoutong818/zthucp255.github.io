@@ -2,9 +2,8 @@
 
  Issues
 ==================== 
-* change top left site name to the logo
-* portfolio page "X" icon should be sticky on top right
-* Layout: pages and post
+* portfolio page "X" icon with text and esc functional when modal just popup
+* 
 
 
 Notes
