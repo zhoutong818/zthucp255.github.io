@@ -180,7 +180,8 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-brand {
-    font-family: "Helvetica Neue",Helvetica,Arial,cursive;
+    /* font-family: "Helvetica Neue",Helvetica,Arial,sans-serif,cursive; */
+    font-family: {{ site.data.template.font.primary }};
     /* color: #{{ site.data.template.color.primary }}; */
     color: white;
 }
