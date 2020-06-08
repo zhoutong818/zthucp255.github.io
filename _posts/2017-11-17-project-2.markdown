@@ -3,11 +3,11 @@ title: Template Picker
 subtitle: Working on real-world ux design problems. There is design constraints on this project.
 layout: default
 modal-id: 2
-date: 2014-07-17
+date: 2017-11-17
 img: lucid.png
 thumbnail: lucid.png
 alt: image-alt
-project-date: April 2014
+project-date: April 2017
 client: Start Bootstrap
 category: UX Design
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
