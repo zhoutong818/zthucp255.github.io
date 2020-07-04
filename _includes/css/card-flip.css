@@ -110,6 +110,30 @@
     background-image: linear-gradient(to bottom, #ffffff, #fdfdfd, #fbfbfb, #f9f9f9, #f7f7f7);
 }
 
+.bg-gallery {
+    background: #18181e;
+}
+
+.header-gallery {
+    color: #dec79b;
+}
+
+.item-gallery {
+    -webkit-filter:brightness(.75) ;
+    filter: brightness(.75) ;
+    transition: 0.3s;
+}
+
+.item-gallery:hover {
+    -webkit-filter:brightness(1) ;
+    filter: brightness(1) ;
+}
+
+#gallery .portfolio-item {
+    right: 0;
+    margin: 0 0 15px;
+}
+
 .text-general {
     max-width: 768px;
     margin: 0 auto;
