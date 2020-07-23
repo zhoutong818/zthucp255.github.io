@@ -202,8 +202,8 @@ description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At du
         <div class="col-lg-12">
             <span>
             <h4 class="service-heading">Click to See the Full Image</h4>
-            <a href="img/portfolio/sf-a/final-design.jpg" target="_blank">
-            <img class="img-responsive center-block" src="img/portfolio/sf-a/final-hero-image.png" alt="Final Design"></a>
+            <a href="img/portfolio/sf-a/final-design-web.png" target="_blank">
+            <img class="img-responsive center-block" src="img/portfolio/sf-a/final-hero-image-web.png" alt="Final Design"></a>
             </span>
         </div>
     </div>
@@ -230,14 +230,14 @@ description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At du
         <div class="col-lg-6">
             <span>
             <h4 class="service-heading">Before</h4>
-            <a href="img/portfolio/sf-a/sf-before.png" target="_blank"><img class="img-responsive center-block" src="img/portfolio/sf-a/sf-before.png" alt="Before"></a>
+            <a href="img/portfolio/sf-a/sf-before-web.png" target="_blank"><img class="img-responsive center-block" src="img/portfolio/sf-a/sf-before-web.png" alt="Before"></a>
             </span>
         </div>
         <div class="col-lg-6">
             <span>
             <h4 class="service-heading">After</h4>
-            <a href="img/portfolio/sf-a/sf-after.png" target="_blank">
-            <img class="img-responsive center-block" src="img/portfolio/sf-a/sf-after.png" alt="After"></a>
+            <a href="img/portfolio/sf-a/sf-after-web.png" target="_blank">
+            <img class="img-responsive center-block" src="img/portfolio/sf-a/sf-after-web.png" alt="After"></a>
             </span>
         </div>
     </div>
@@ -266,7 +266,7 @@ description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At du
         <div class="col-lg-6">
             <span>
             <h4 class="service-heading">Rich Content</h4>
-            <img class="img-responsive center-block" src="img/portfolio/sf-a/content-img.png" alt="">
+            <img class="img-responsive center-block" src="img/portfolio/sf-a/content-img-web.png" alt="">
             </span>
         </div>
     </div>
