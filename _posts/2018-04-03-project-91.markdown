@@ -57,7 +57,7 @@ design:
     <div class="div-line"></div>
     <div class="row text-left">
         <div class="col-lg-7 col-sm-7 col-xs-7">
-          <h1 class="service-heading">Interest</h1>
+          <h1 class="service-heading">Cause</h1>
           <p>Before we sign up for a new service or buy a new piece of technology, we must ask ourselves:</p>
           <ul class="text-muted" style="font-style: italic;">
             <li><p>What kind of data is being collected from me?</p></li>
@@ -172,7 +172,7 @@ design:
     <div class="container">
       <div class="row text-center" >
         <div class="col-lg-12">
-          <h1 class="service-heading">Final Deliverable: "DataMart" (05m19s)</h1>
+          <h1 class="service-heading">Final Deliverable: "DataMart" (5m 19s)</h1>
           <div style="padding-top: 56.25%; position: relative; overflow: hidden; box-shadow: 0px 0px 20px #7dd4a8;"><iframe allowfullscreen="" scrolling="no" style="position: absolute; height: 100%; width: 100%; left: 0px; top: 0px;" src="https://onelineplayer.com/player.html?autoplay=false&loop=false&autopause=false&muted=false&url=https%3A%2F%2Fvimeo.com%2F356513591&poster=&time=true&progressBar=true&playButton=true&overlay=true&muteButton=true&fullscreenButton=true&style=light&logo=false&quality=1080p" frameborder="0"></iframe></div>
         </div>
       </div>
