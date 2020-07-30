@@ -1,6 +1,6 @@
 ---
 title: Template Picker
-subtitle: Working on real-world ux design problems. There is design constraints on this project.
+subtitle: Worked on real-world ux design problems. There is design constraints on this project.
 layout: default
 modal-id: 2
 date: 2017-11-17
@@ -14,7 +14,7 @@ description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At du
 
 
 team: Davis Chen, Libby Gress, Ryan Leibering
-role: Competitive Analysis, Insight Generation, Mockup
+role: Competitive Analysis, Insight Generating, Mockup
 duration: 2 weeks
 background: orem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in
 ---
