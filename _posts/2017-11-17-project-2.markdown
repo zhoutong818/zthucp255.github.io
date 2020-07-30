@@ -203,7 +203,7 @@ background: orem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo 
     <div class="div-line"></div>
     <div class="row text-left text-general">
         <div class="col-lg-12">
-        <h1 class="service-heading">What did I learn from this project</h1>
+        <h1 class="service-heading">What I learned from this project</h1>
         <ol>
             <li><p>Working on real-world design problems, we listen, think, and present what we get.</p></li>
             <li><p>Generating insights and defining a problem space from a reliable and huge amount of data.</p></li>
