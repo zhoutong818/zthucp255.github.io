@@ -24,7 +24,7 @@ design:
 <div class="modal-body"> <!-- eternal structure: row col-xl-12 modal-body 3-->
     <!-- post content start-->
     <div class="container">
-    <div class="row text-left text-general">
+    <div class="row text-left">
       <div class="col-lg-12">
       <h1 class="service-heading">Abstract</h1>
       <p>Walking down the street or sitting at home, we are constantly producing data, which is then trafficked. Whether we like it or not we give something in return for signing up and participating in social media or other platforms. While most social media applications are “free” what we don’t realize is that it is us who are the product. Data brokers such as Acxiom collect as much as 1,500 different pieces of information on all of us, and they sell this information to parties unknown.</p>
@@ -123,9 +123,12 @@ design:
     <!-- post content start-->
     <div class="container">
     <div class="div-line"></div>
+    <div class="row text-center">
+      <h1 class="service-heading">Expression</h1>
+    </div>
     <div class="row text-left data-card">
         <div class="col-lg-6 col-md-6">
-          <h1 class="service-heading">Envision an innovative way for interacting with information in the future.</h1>
+          <h2 class="service-heading">Visualize an innovative way for interacting with information in the future.</h2>
           <p>Showing how technology use could evolve over time to affect one’s daily life and ability to “opt-out” of use.</p>
         </div>
         <div class="col-lg-6 col-md-6">
@@ -137,7 +140,7 @@ design:
     <div class="div-line"></div>
     <div class="row text-left data-card">
         <div class="col-lg-6 col-md-6">
-          <h1 class="service-heading">Show the user a fantasy representation of their data being bought and sold.</h1>
+          <h2 class="service-heading">Show the user a fantasy representation of their data being bought and sold.</h2>
           <p>This should force the user to confront this issue in a more “real” way. The user will have to grapple with their own sense of powerlessness about the situation.</p>
         </div>
         <div class="col-lg-6 col-md-6">
@@ -149,7 +152,7 @@ design:
     <div class="div-line"></div>
     <div class="row text-left data-card">
         <div class="col-lg-6 col-md-6">
-          <h1 class="service-heading">Provide a paper proof of their private data being purchased after the VR experience ends.</h1>
+          <h2 class="service-heading">Provide a paper proof of their private data being purchased after the VR experience ends.</h2>
           <p>This will allow the user to relate the events of their future/fantasy VR experience to things that are happening in their current day-to-day life, and to reflect later.</p>
         </div>
         <div class="col-lg-6 col-md-6">
