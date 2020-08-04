@@ -11,7 +11,7 @@
     height: 310px;
 }
 .flip-container {
-    margin: 0px auto;
+    margin: 25px auto;
 }
 
 .flipper {
@@ -46,7 +46,13 @@
     top: 0;
     left: 0;
 
-    padding-top: 55px;
+    padding-top: 55%;
+    padding-left: 5px;
+    padding-right: 5px;
+
+    border-radius: 3px;
+    border: 3px solid;
+    
 }
 
 .back {
@@ -56,9 +62,10 @@
     -ms-transform: rotateY(-180deg);
     transform: rotateY(-180deg);
 
-    background-color: #ffd700;
-    /* border: 7px solid; */
-    border-color: #2e63b1;
+    /* background-color: #69bff8; */
+    background-image: linear-gradient(to right top, #fbab7e, #fdb377, #fdbb71, #fbc46c, #f7ce68);
+    color: #FFF;
+    border-color: lightblue;
 }
 
 .flip-container:hover .back, .flip-container.hover .back, .flip-container.flip .back, .flip-container.flip:hover .front, .flip-container.flip.hover .front {
@@ -86,9 +93,21 @@
 .front {
     z-index: 2;
     /* background-color: brown; */
-    border: 7px solid;
-    border-color: #2e63b1;
+    background-image: linear-gradient(to right top, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
 }
+
+.front-1, .front-border-1 {
+    color: crimson;
+}
+
+.front-2, .front-border-2 {
+    color: darkorange;
+}
+
+.front-3, .front-border-3 {
+    color: darkorchid;
+}
+
 
 .div-card-height {
     height: 320px;
