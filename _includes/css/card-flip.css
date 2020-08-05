@@ -121,12 +121,13 @@
     margin-bottom: 60px;
 }
 
-.bg-gradient-gray-white {
+.bg-gradient-projects {
     background-image: linear-gradient(to bottom, #f7f7f7, #f9f9f9, #fbfbfb, #fdfdfd, #ffffff);
 }
 
 .bg-gradient-white-gray {
-    background-image: linear-gradient(to bottom, #ffffff, #fdfdfd, #fbfbfb, #f9f9f9, #f7f7f7);
+    /* background-image: linear-gradient(to bottom, #ffffff, #fdfdfd, #fbfbfb, #f9f9f9, #f7f7f7); */
+    background-color: #f7f7f7;
 }
 
 .bg-gallery {
