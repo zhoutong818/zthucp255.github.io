@@ -37,4 +37,4 @@ Icon
 .Spotlight-V100
 .Trashes
 Gemfile.lock
-Gemfile.lock
+*.lock
