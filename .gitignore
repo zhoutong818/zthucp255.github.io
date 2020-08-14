@@ -1,4 +1,5 @@
 _site
+Gemfile.lock
 
 # Windows image file caches
 Thumbs.db
@@ -36,5 +37,3 @@ Icon
 # Files that might appear on external disk
 .Spotlight-V100
 .Trashes
-Gemfile.lock
-*.lock
