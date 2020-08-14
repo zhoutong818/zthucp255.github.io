@@ -1,6 +1,6 @@
 ---
 title: Template Picker
-subtitle: Worked on real-world ux design problems. There is design constraints on this project.
+subtitle: Worked on a real-world UX design project with UI style constraints.
 layout: default
 modal-id: 2
 date: 2017-11-17
