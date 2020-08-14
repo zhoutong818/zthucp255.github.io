@@ -26,6 +26,7 @@ $RECYCLE.BIN/
 .DS_Store
 .AppleDouble
 .LSOverride
+.jekyll-cache/*
 
 # Icon must ends with two \r.
 Icon
@@ -35,3 +36,4 @@ Icon
 # Files that might appear on external disk
 .Spotlight-V100
 .Trashes
+Gemfile.lock
