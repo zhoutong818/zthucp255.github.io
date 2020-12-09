@@ -25,7 +25,7 @@ background: orem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo 
     <div class="container">
     <div class="row text-left text-general">
         <div class="col-lg-12">
-          <h1 class="service-heading">Company Overview</h1>
+          <h1 class="service-heading">Overview</h1>
           <p><a href="https://www.lucidchart.com" target="_blank">Lucidchart</a> is an online diagramming platform. The <strong>Template Picker</strong> in Lucidchart allows users to start a new diagramming by choosing one of the templates from its library.</p>
         </div>
         <div class="col-lg-12">
