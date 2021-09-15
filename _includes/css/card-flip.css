@@ -121,13 +121,23 @@
     margin-bottom: 60px;
 }
 
+.favorite-cursor {
+    cursor: pointer;
+    
+    -webkit-user-select:none;
+    -moz-user-select:none;
+    -o-user-select:none;
+    user-select:none;
+}
+
 .bg-gradient-projects {
     background-image: linear-gradient(to bottom, #f7f7f7, #f9f9f9, #fbfbfb, #fdfdfd, #ffffff);
 }
 
 .bg-gradient-white-gray {
-    /* background-image: linear-gradient(to bottom, #ffffff, #fdfdfd, #fbfbfb, #f9f9f9, #f7f7f7); */
-    background-color: #f7f7f7;
+    /*background-image: linear-gradient(to bottom, #ffffff, #fdfdfd, #fbfbfb, #f9f9f9, #f7f7f7);*/
+    background-image: linear-gradient(to bottom, #ffffff, #f9f7ff, #f4efff, #f0e7ff, #eddeff, #eddeff, #eddeff, #eddeff, #f0e7ff, #f4efff, #f9f7ff, #ffffff);
+    /* background-color: #f7f7f7; */
 }
 
 .bg-gallery {
