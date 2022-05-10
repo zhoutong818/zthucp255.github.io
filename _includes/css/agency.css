@@ -275,10 +275,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    /* background-image: url('{{ site.baseurl }}/img/header-bg-2.png'); */
-    /* background-color: #000; */
-    /* background-image: linear-gradient(to bottom, #000000, #3a3a3a, #737373, #b3b3b3, #f7f7f7); */
-    background-image: linear-gradient(to bottom, #27b6e9, #86c3f2, #bad1f5, #dee2f6, #f7f7f7);
+    background-image: url('{{ site.baseurl }}/img/header-bg.jpg');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
